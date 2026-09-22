@@ -1,0 +1,101 @@
+
+@media (max-width: 991px) {
+        .hero-section {
+        padding: 80px 0 100px;
+    }
+#header .navbar-collapse {
+       position: fixed;
+       top: 0;
+       left: 0;
+
+       width: 300px;
+       max-width: 85%;
+       height: 100vh;
+
+       background: #fff;
+
+       padding: 80px 25px 30px;
+
+       overflow-y: auto;
+
+       /* Start outside the screen */
+       transform: translateX(-100%);
+
+       transition: transform 0.4s ease-in-out;
+
+       /* Remove Bootstrap collapse sizing */
+       display: block !important;
+
+       visibility: hidden;
+
+       z-index: 9999;
+
+       box-shadow: 5px 0 25px rgba(0, 0, 0, 0.15);
+   }
+
+
+   /* When Bootstrap adds .show */
+   #header .navbar-collapse.show {
+       transform: translateX(0);
+       visibility: visible;
+   }
+
+
+   /* Navbar menu */
+   #header .navbar-nav {
+       width: 100%;
+       gap: 0;
+       margin: 0 !important;
+   }
+
+
+   #header .navbar-nav .nav-item {
+       width: 100%;
+       border-bottom: 1px solid #eee;
+   }
+
+
+   #header .navbar-nav .nav-link {
+       display: block;
+       padding: 15px 5px;
+   }
+
+
+   /* Dropdown on mobile */
+   #header .dropdown-menu {
+       position: static !important;
+
+       width: 100%;
+
+       margin: 0 0 10px;
+
+       border: none;
+
+       background: #f7f8f9;
+
+       box-shadow: none;
+   }
+
+
+   #header .dropdown-menu .dropdown-item {
+       padding: 10px 15px;
+       font-size: 15px;
+   }
+
+
+   /* Get In Touch */
+   #header form {
+       margin-top: 25px;
+   }
+
+
+   /* Hamburger */
+   #header .navbar-toggler {
+       border: none;
+       outline: none;
+       box-shadow: none;
+       font-size: 25px;
+       color: var(--primary);
+   }
+
+   }
