@@ -666,9 +666,9 @@ height:280px;
 .about-section {
     background: #fff;
 }
-.about-section .left{
+/* .about-section .left{
    background-image: url('../img/cat-1.webp');
-}
+} */
 
 .section-title {
     color: var(--dark);
@@ -941,6 +941,7 @@ height:280px;
     background: #fff;
     color: var(--primary);
     border-radius: 0;
+    flex-shrink: 0;
 }
 
 .why-highlight strong,
@@ -991,7 +992,6 @@ height:280px;
 }
 
 .application-card {
-    min-height: 190px;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -1065,7 +1065,7 @@ height:280px;
 
 .process-card h4 {
     color: var(--dark);
-    font-size: 23px;
+    font-size: 20px;
 }
 
 .process-card p {
@@ -1122,6 +1122,7 @@ height:280px;
 .cta-box .btn {
     flex-shrink: 0;
     color: var(--primary);
+    z-index: 3;
 }
 
 .custom-accordion .accordion-item {
@@ -1187,6 +1188,7 @@ height:280px;
     background: rgba(255, 255, 255, .1);
     color: #b9dce9;
     border-radius: 0;
+    flex-shrink: 0;
 }
 
 .contact-item small,
@@ -1206,6 +1208,15 @@ height:280px;
     color: #fff;
     font-size: 14px;
 }
+.contact-item strong a{
+    color: #fff;
+    font-size: 14px;
+}
+
+.contact-item strong a:hover{
+    color: var(--primary);
+  
+}
 
 .contact-form-card {
     background: #fff;
@@ -1214,10 +1225,12 @@ height:280px;
     box-shadow: 0 25px 60px rgba(0, 0, 0, .18);
 }
 
-.contact-form-card h3 {
-    color: var(--dark);
-    font-size: 30px;
-    font-weight: 800;
+.contact-form-card .section-kicker{
+    color: var(--primary);
+}
+
+.contact-form-card .section-title{
+    color: black;
 }
 
 .contact-form-card>p {
@@ -1263,11 +1276,35 @@ textarea.form-control {
     display: block;
 }
 
+
+
+/* ==========================
+   FOOTER
+========================== */
+
 .footer {
     background: #182126;
     color: rgba(255, 255, 255, .62);
     padding: 70px 0 20px;
+    position: relative;
+    overflow: hidden;
 }
+
+/* Top Accent Line */
+.footer::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 3px;
+    background: #b9dce9;
+}
+
+
+/* ==========================
+   FOOTER BRAND
+========================== */
 
 .footer-brand {
     display: flex;
@@ -1275,42 +1312,73 @@ textarea.form-control {
 }
 
 .footer-brand img {
-    width: 60px;
-    height: 60px;
+    width: 100px;
+    height: 100px;
     object-fit: contain;
-    background: #fff;
     border-radius: 0;
-    margin-right: 10px;
+    margin-right: 12px;
 }
 
 .footer-brand strong,
 .footer-brand span {
     display: block;
+    
 }
 
 .footer-brand strong {
-    color: #b9dce9;
-    font: 800 22px "Barlow", sans-serif;
-    letter-spacing: 2px;
+     color: white;
+    font-size: 25px;
 }
 
 .footer-brand span {
-    color: #fff;
-    font: 700 10px "Barlow", sans-serif;
-    letter-spacing: 3px;
-    margin-top: 5px;
+     color: #fff;
+    font-size: 25px;
+
 }
+
+
+/* ==========================
+   FOOTER TEXT
+========================== */
 
 .footer p {
     font-size: 14px;
     line-height: 1.8;
 }
 
-.footer h5 {
-    color: #fff;
-    font-size: 18px;
-    margin-bottom: 20px;
+.footer > .container > .row > div:first-child > p {
+    max-width: 400px;
+    color: rgba(255, 255, 255, .62);
 }
+
+
+/* ==========================
+   FOOTER HEADINGS
+========================== */
+
+.footer h5 {
+color: #df5a27;
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 22px;
+    position: relative;
+    padding-bottom: 10px;
+}
+
+.footer h5::after {
+    content: "";
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 35px;
+    height: 2px;
+    background: white;
+}
+
+
+/* ==========================
+   FOOTER LINKS
+========================== */
 
 .footer ul {
     list-style: none;
@@ -1319,37 +1387,112 @@ textarea.form-control {
 }
 
 .footer li {
-    margin-bottom: 10px;
+    margin-bottom: 11px;
 }
 
 .footer a {
     color: rgba(255, 255, 255, .6);
-    transition: .25s;
+    transition: .25s ease;
     font-size: 14px;
+    text-decoration: none;
 }
 
 .footer a:hover {
-    color: #b9dce9;
+    color: var(--primary);
+    padding-left: 4px;
 }
+
+
+/* ==========================
+   SOCIAL LINKS
+========================== */
 
 .social-links {
     display: flex;
-    gap: 8px;
-    margin-top: 20px;
+    gap: 9px;
+    margin-top: 22px;
 }
 
 .social-links a {
-    width: 37px;
-    height: 37px;
+    width: 38px;
+    height: 38px;
     display: grid;
     place-items: center;
-    border: 1px solid rgba(255, 255, 255, .12);
+    border: 1px solid rgba(255, 255, 255, .15);
     border-radius: 0;
+    color: #fff;
+    transition: .3s ease;
+    padding: 0;
 }
+
+.social-links a:hover {
+    background: #b9dce9;
+    border-color: #b9dce9;
+    color: #182126;
+    transform: translateY(-3px);
+    padding-left: 0;
+}
+
+
+/* ==========================
+   CONTACT INFORMATION
+========================== */
+
+.footer-contact {
+    display: flex;
+    flex-direction: column;
+    gap: 17px;
+}
+
+.footer-contact-item {
+    display: flex;
+    align-items: flex-start;
+    gap: 12px;
+}
+
+.footer-contact-icon {
+    width: 36px;
+    min-width: 36px;
+    height: 36px;
+    display: grid;
+    place-items: center;
+    border: 1px solid rgba(185, 220, 233, .2);
+    color: #b9dce9;
+    font-size: 14px;
+}
+
+.footer-contact-item span {
+    display: block;
+    color: rgba(255, 255, 255, .4);
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    margin-bottom: 3px;
+}
+
+.footer-contact-item p {
+    margin: 0;
+    color: rgba(255, 255, 255, .68);
+    font-size: 13px;
+    line-height: 1.6;
+}
+
+.footer-contact-item a {
+    font-size: 13px;
+}
+
+.footer-contact-item a:hover {
+    padding-left: 0;
+}
+
+
+/* ==========================
+   FOOTER BOTTOM
+========================== */
 
 .footer-bottom {
     border-top: 1px solid rgba(255, 255, 255, .09);
-    margin-top: 45px;
+    margin-top: 50px;
     padding-top: 20px;
     display: flex;
     justify-content: space-between;
@@ -1360,7 +1503,49 @@ textarea.form-control {
 .footer-bottom p {
     margin: 0;
     font-size: 12px;
+    color: rgba(255, 255, 255, .45);
 }
+
+.footer-bottom strong {
+    color: #b9dce9;
+}
+
+
+/* ==========================
+   RESPONSIVE
+========================== */
+
+@media (max-width: 991px) {
+
+    .footer {
+        padding: 55px 0 20px;
+    }
+
+}
+
+@media (max-width: 767px) {
+
+    .footer {
+        padding: 50px 0 20px;
+    }
+
+    .footer-bottom {
+        margin-top: 35px;
+        text-align: center;
+        justify-content: center;
+    }
+
+    .footer-bottom p {
+        width: 100%;
+    }
+
+    
+    
+
+}
+/* footer end */
+
+
 
 .back-to-top {
     position: fixed;
@@ -1507,7 +1692,7 @@ textarea.form-control {
     }
 
     .cta-box {
-        padding: 30px;
+        padding: 30px 15px;
     }
 
     .cta-box h2 {
@@ -1960,7 +2145,7 @@ textarea.form-control {
 
 .product-body h3 {
 
-    font-size: 22px;
+    font-size: 20px;
     font-weight: 700;
     color: #222;
     margin-bottom: 15px;
