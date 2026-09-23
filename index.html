@@ -1604,7 +1604,7 @@
 
         <div class="container">
 
-            <div class="row g-5">
+            <div class="row g-5 align-items-center">
 
 
                 <!-- FAQ Introduction -->
@@ -2370,6 +2370,19 @@ New Delhi - 110036, Delhi, India
             }
         });
     </script>
+    <script>
+  document.addEventListener("DOMContentLoaded", function () {
+    const navbar = document.querySelector("#header .navbar");
+    if (!navbar) return;
+
+    function updateNavbar() {
+      navbar.classList.toggle("is-scrolled", window.scrollY > 30);
+    }
+
+    updateNavbar();
+    window.addEventListener("scroll", updateNavbar, { passive: true });
+  });
+</script>
 
 </body>
 
