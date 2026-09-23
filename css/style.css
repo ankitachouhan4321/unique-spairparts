@@ -1150,11 +1150,6 @@ a {
 }
 
 
-#about .about-list > div:hover {
-  transform: translateX(8px);
-  border-color: rgba(255, 122, 0, .3);
-  box-shadow: 0 10px 24px rgba(30, 38, 48, .09);
-}
 
 #about .about-list i {
   flex: 0 0 auto;
@@ -1244,6 +1239,7 @@ a {
   }
 }
 
+
 .products-section {
     background: var(--light);
 }
@@ -1258,16 +1254,6 @@ a {
     transition: .35s ease;
 }
 
-.product-card::before {
-    content: "";
-    position: absolute;
-    width: 120px;
-    height: 120px;
-    border-radius: 50%;
-    background: var(--primary-light);
-    right: -55px;
-    top: -55px;
-}
 
 .product-card:hover {
     transform: translateY(-8px);
@@ -2302,6 +2288,8 @@ color: #df5a27;
 .feature-box {
     border-radius: 0 !important;
     border: 1px solid rgba(77, 127, 145, .18);
+    border-radius: 5px;
+ 
 }
 
 .hero-machine-card {
@@ -2351,7 +2339,7 @@ color: #df5a27;
     background: #fff;
     border: 1px solid #e5e5e5;
     box-shadow: 0 10px 25px rgba(0, 0, 0, .06);
-    border-radius: 0;
+    border-radius: 5px !important;
 }
 
 .product-card:hover {
