@@ -532,7 +532,9 @@ a {
     transform: rotate(180deg);
 }
 
-
+.nav-link:focus-visible{
+    box-shadow: none !important;
+}
 /* =========================================
    MEGA MENU HOVER FIX
 ========================================= */
@@ -3456,7 +3458,7 @@ textarea.form-control {
 
 .product-spec-table th,
 .product-spec-table td {
-    padding: 12px 15px;
+    padding: 8px 10px;
     font-size: 14px;
     vertical-align: middle;
 }
@@ -3801,7 +3803,13 @@ textarea.form-control {
     color: #777;
     margin: 0;
 }
+.product-description {
+    display: none;
+}
 
+.product-description.show {
+    display: block;
+}
 
 /* =========================================
    MOBILE
