@@ -533,29 +533,6 @@ a {
 }
 
 
-/* Main Mega Menu */
-
-#header .mega-menu {
-    position: absolute;
-    left: 0;
-    right: 0;
-    top: 100%;
-
-    width: 100%;
-    margin: 0;
-
-    padding: 25px 0 20px;
-
-    background: #fff;
-
-    border: 0;
-    border-top: 2px solid var(--primary);
-    border-radius: 0;
-
-    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.12);
-
-    display: none;
-}
 /* =========================================
    MEGA MENU HOVER FIX
 ========================================= */
@@ -585,7 +562,7 @@ a {
     position: absolute;
     left: 0;
     right: 0;
-    top: calc(100% + 10px);
+    top: calc(100% + 0px);
 
     width: 100%;
 
