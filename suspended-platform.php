@@ -40,12 +40,11 @@
 <body>
 
 
-     <!-- header start -->
+    <!-- header start -->
 
     <?php include "navbar.php"; ?>
 
     <!-- header end -->
-
     <!-- Breadcrumb -->
     <section class="inner-breadcrumb">
         <div class="container">
@@ -2488,13 +2487,11 @@
 
 
 
-
     <!-- ================= FOOTER ================= -->
 
     <?php include 'footer.php'; ?>
 
     <!-- footer end -->
-
 
     <!-- Bootstrap JS -->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>

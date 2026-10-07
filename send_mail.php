@@ -27,7 +27,7 @@ if($_SERVER["REQUEST_METHOD"] == "POST") {
 if (mail($to, $subject, $body, $headers)) {
     echo "<script>
         alert('Thank you! Your message has been sent.');
-        window.location.href = 'index.html'; // change to your homepage
+        window.location.href = 'index.php'; // change to your homepage
     </script>";
 } else {
     echo "<script>

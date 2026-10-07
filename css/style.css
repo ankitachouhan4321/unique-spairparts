@@ -3862,3 +3862,199 @@ textarea.form-control {
 /* =========================================
    PRODUCT SEARCH end
 ========================================= */
+
+
+/* =========================================
+   BRANDS SECTION
+========================================= */
+
+.brands-section {
+    background: #f7f8fa;
+    position: relative;
+    overflow: hidden;
+}
+
+.brands-section::before {
+    content: "";
+    position: absolute;
+    width: 250px;
+    height: 250px;
+    border: 1px solid rgba(194, 5, 19, 0.08);
+    border-radius: 50%;
+    top: -120px;
+    left: -100px;
+}
+
+.brands-section::after {
+    content: "";
+    position: absolute;
+    width: 300px;
+    height: 300px;
+    border: 1px solid rgba(194, 5, 19, 0.06);
+    border-radius: 50%;
+    bottom: -180px;
+    right: -120px;
+}
+
+
+
+/* =========================================
+   BRAND CARD
+========================================= */
+
+.brandSwiper {
+    padding: 15px 20px;
+}
+
+.brand-card {
+    height: 145px;
+    background: #ffffff;
+    border: 1px solid #e7e7e7;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    padding: 15px;
+
+    transition: all 0.4s ease;
+
+    position: relative;
+    overflow: hidden;
+}
+
+.brand-card::before {
+    content: "";
+    position: absolute;
+    width: 0;
+    height: 3px;
+    background: var(--primary);;
+    left: 0;
+    bottom: 0;
+
+    transition: width 0.4s ease;
+}
+
+.brand-card img {
+    max-width: 100%;
+    max-height: 100%;
+    width: auto;
+    height: auto;
+
+    object-fit: contain;
+
+    filter: grayscale(100%);
+    opacity: 0.7;
+
+    transition: all 0.4s ease;
+}
+
+
+/* Hover */
+
+.brand-card:hover {
+    transform: translateY(-8px);
+    border-color: var(--primary);
+    box-shadow: 0 15px 35px rgba(0, 0, 0, 0.08);
+}
+
+.brand-card:hover::before {
+    width: 100%;
+}
+
+.brand-card:hover img {
+    filter: grayscale(0);
+    opacity: 1;
+    transform: scale(1.08);
+}
+
+
+/* =========================================
+   SWIPER NAVIGATION
+========================================= */
+
+.brand-next,
+.brand-prev {
+    width: 38px;
+    height: 38px;
+
+    background: #ffffff;
+    border: 1px solid var(--primary);
+
+    transition: all 0.3s ease;
+}
+
+.brand-next::after,
+.brand-prev::after {
+    font-size: 14px;
+    font-weight: 700;
+    color: #222;
+}
+
+.brand-next:hover,
+.brand-prev:hover {
+    background: var(--primary);;
+    border-color: var(--primary);;
+}
+
+.brand-next:hover::after,
+.brand-prev:hover::after {
+    color: #ffffff;
+}
+.brand-next i,
+.brand-prev i {
+    color: var(--primary) !important;
+}
+.brand-next i,
+.brand-prev i {
+    color: var(--primary) !important;
+}
+
+.brand-next:hover i,
+.brand-prev:hover i {
+    color: white !important;
+}
+
+
+
+/* =========================================
+   RESPONSIVE
+========================================= */
+
+@media (max-width: 991px) {
+
+    .section-title {
+        font-size: 32px;
+    }
+
+    .brand-card {
+        height: 130px;
+    }
+}
+
+@media (max-width: 767px) {
+
+    .section-title {
+        font-size: 27px;
+    }
+
+    .section-desc {
+        font-size: 14px;
+    }
+
+    .brandSwiper {
+        padding-left: 35px;
+        padding-right: 35px;
+    }
+
+    .brand-card {
+        height: 120px;
+    }
+
+    .brand-next,
+    .brand-prev {
+        width: 32px;
+        height: 32px;
+    }
+
+}

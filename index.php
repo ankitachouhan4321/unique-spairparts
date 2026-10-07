@@ -38,275 +38,9 @@
 <body>
 
 
-    <!-- ================= NAVBAR ================= -->
-   <!-- header start -->
-    <section id="header">
-        <nav class="navbar navbar-expand-lg bg-body-tertiary">
-            <div class="container-fluid px-0">
-                <a class="navbar-brand col-lg-1 col-md-2 col-sm-3 col-4" href="index.html">
-                    <img src="img/logo.png" class="w-75" alt="Bootstrap">
-                </a>
-                <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
-                    data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
-                    aria-expanded="false" aria-label="Toggle navigation">
-                    <span class="fa-solid fa-bars-staggered"></span>
-                </button>
-                <div class="collapse navbar-collapse" id="navbarSupportedContent">
-                    <ul class="navbar-nav m-auto">
-                        <li class="nav-item">
-                            <a class="nav-link active" aria-current="page" href="index.html">Home</a>
-                        </li>
+    <!-- header start -->
 
-                        <li class="nav-item">
-                            <a class="nav-link" href="about.html">About Us</a>
-                        </li>
-
-                        <!-- ================================= OUR PRODUCTS MEGA MENU ================================= -->
-
-                        <li class="nav-item dropdown mega-dropdown">
-
-                            <a class="nav-link dropdown-toggle" href="product.html" id="productsDropdown" role="button"
-                                data-bs-toggle="dropdown" aria-expanded="false">
-
-                                Our Products
-                                <i class="fa-solid fa-chevron-down mega-arrow"></i>
-
-                            </a>
-
-
-                            <div class="dropdown-menu mega-menu" aria-labelledby="productsDropdown">
-
-                                <div class="container">
-
-                                    <div class="mega-menu-scroll">
-
-                                        <div class="row g-0">
-
-                                            <!-- ================= COLUMN 1 ================= -->
-
-                                            <div class="col-lg">
-
-                                                <ul class="mega-menu-list">
-
-                                                    <li>
-                                                        <a href="bar-bending-machine.html">
-                                                            Bar Bending Machine
-                                                        </a>
-                                                    </li>
-
-                                                    <li>
-                                                        <a href="construction-equipment.html">
-                                                            Construction Equipment
-                                                        </a>
-                                                    </li>
-
-                                                    <li>
-                                                        <a href="bar-cutting-machine.html">
-                                                            Bar Cutting Machine
-                                                        </a>
-                                                    </li>
-
-                                                    <li>
-                                                        <a href="plate-compactor.html">
-                                                            Plate Compactor
-                                                        </a>
-                                                    </li>
-
-                                                    <li>
-                                                        <a href="suspended-platform.html">
-                                                            Suspended Platform
-                                                        </a>
-                                                    </li>
-
-                                                    <li>
-                                                        <a href="#">
-                                                            Stirrup Bending Machine
-                                                        </a>
-                                                    </li>
-
-                                                    <li>
-                                                        <a href="#">
-                                                            Power Trowel
-                                                        </a>
-                                                    </li>
-
-                                                    <li>
-                                                        <a href="#">
-                                                            Ring making machine
-                                                        </a>
-                                                    </li>
-
-                                                    <li>
-                                                        <a href="#">
-                                                            Tamping Vibrator
-                                                        </a>
-                                                    </li>
-
-                                                    <li>
-                                                        <a href="#">
-                                                            Concrete Flooring machine
-                                                        </a>
-                                                    </li>
-
-                                                    <li>
-                                                        <a href="#">
-                                                            Tamping Rammer
-                                                        </a>
-                                                    </li>
-
-                                                    <li>
-                                                        <a href="#">
-                                                            Walk Behind Rollers
-                                                        </a>
-                                                    </li>
-                                                       <li><a href="#">Vibratory Double Drum Rollers</a></li>
-                                                    <li><a href="#">Bar Threading Machine</a></li>
-                                                    <li><a href="#">Groove Cutting Machine</a></li>
-
-                                                </ul>
-
-                                            </div>
-
-
-                                            <!-- ================= COLUMN 2 ================= -->
-
-                                            <div class="col-lg">
-
-                                                <ul class="mega-menu-list">
-
-                                                 
-                                                    <li><a href="#">Rod Cutting Machine</a></li>
-                                                    <li><a href="#">Walk Behind Power Trowel</a></li>
-                                                    <li><a href="#">Semi Automatic Strapping Machine</a>
-                                                    </li>
-                                                    <li><a href="#">Rebar Cutting Machine</a></li>
-                                                    <li><a href="#">Steel Bar Tmt Bending Machine</a></li>
-                                                    <li><a href="#">Concrete Paver</a></li>
-                                                    <li><a href="#">Screed Board Vibrator</a></li>
-                                                    <li><a href="#">Forward And Reversible Compactor</a>
-                                                    </li>
-                                                    <li><a href="#">Vibratory Rammer</a></li>
-                                                    <li><a href="#">Bar Threading Machine Roller Set</a>
-                                                    </li>
-                                                    <li><a href="#">Concrete Truss Screed Paver</a></li>
-                                                    <li><a href="#">Anti Smog Gun</a></li>
-                                                    <li><a href="#">Walk Behind Road Roller</a></li>
-
-                                                </ul>
-
-                                            </div>
-
-
-                                            <!-- ================= COLUMN 3 ================= -->
-
-                                            <div class="col-lg">
-
-                                                <ul class="mega-menu-list">
-
-                                                    <li><a href="#">Hoist Duty Motors</a></li>
-                                                    <li><a href="#">Rebar Thread Cutting Machine</a></li>
-                                                    <li><a href="#">Floor Mopping Machines</a></li>
-                                                    <li><a href="#">Walk Behind Vibratory Roller</a></li>
-                                                    <li><a href="#">Steel Bending Machine</a></li>
-                                                    <li><a href="#">Drum Roller</a></li>
-                                                    <li><a href="#">Ride On Roller</a></li>
-                                                    <li><a href="#">Mini Roller</a></li>
-                                                    <li><a href="#">Vibrating Plate Compactor</a></li>
-                                                    <li><a href="#">Earth Rammer Machine</a></li>
-                                                    <li><a href="#">Double Drum Walk Behind Vibratory
-                                                            Roller</a></li>
-                                                    <li><a href="#">Roller</a></li>
-                                                    <li><a href="#">Rebar Threading Machine</a></li>
-                                                    <li><a href="#">Automatic Stirrup Benders</a></li>
-
-                                                </ul>
-
-                                            </div>
-
-
-                                            <!-- ================= COLUMN 4 ================= -->
-
-                                            <div class="col-lg">
-
-                                                <ul class="mega-menu-list">
-
-                                                    <li><a href="#">Groove Cutting Machine</a></li>
-                                                    <li><a href="#">Ring Bending Machine</a></li>
-                                                    <li><a href="#">Pipe Threading Machine</a></li>
-                                                    <li><a href="#">Plate Vibrator</a></li>
-                                                    <li><a href="#">Power Floater Machine</a></li>
-                                                    <li><a href="#">Punching and sharing machine</a></li>
-                                                    <li><a href="#">Monkey Lift</a></li>
-                                                    <li><a href="#">Rebar Scrap Straightening Machine</a>
-                                                    </li>
-                                                    <li><a href="#">Cement Concrete Hardener</a></li>
-                                                    <li><a href="#">Concrete Cutting Machine</a></li>
-                                                    <li><a href="#">Vibratory Compaction Rollers</a></li>
-                                                    <li><a href="#">Rebar Straightening machine</a></li>
-    <li><a href="#">Concrete Bull Float And Texturing
-                                                            Brush</a></li>
-                                                </ul>
-
-                                            </div>
-
-
-                                            <!-- ================= COLUMN 5 ================= -->
-
-                                            <div class="col-lg">
-
-                                                <ul class="mega-menu-list">
-
-                                                
-                                                    <li><a href="#">Rcc Road Work</a></li>
-                                                    <li><a href="#">Topping Material Spreader</a></li>
-                                                    <li><a href="#">Rebar Couper Threading Machine</a>
-                                                    </li>
-                                                    <li><a href="#">Construction Tools</a></li>
-                                                    <li><a href="#">Concrete Floater</a></li>
-                                                    <li><a href="#">Texture Brushes</a></li>
-                                                    <li><a href="#">Concrete Grinder</a></li>
-                                                    <li><a href="#">Rebar Decoiling</a></li>
-                                                    <li><a href="#">Concrete Cutter Machine</a></li>
-                                                    <li><a href="#">Earth Rammer</a></li>
-                                                    <li><a href="#">Power Trowel Floater</a></li>
-                                                    <li><a href="#">Monkey Hoist Machines</a></li>
-                                                    <li><a href="#">Concrete Road Paver</a></li>
-                                                    <li><a href="#">New Items</a></li>
-
-
-                                                </ul>
-
-                                            </div>
-
-                                        </div>
-
-                                    </div>
-
-                                </div>
-
-                            </div>
-
-                        </li>
-
-
-
-                        <li class="nav-item">
-                            <a class="nav-link" href="#">Gallery</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="contact.html">Contact Us</a>
-                        </li>
-                    </ul>
-                    <form class="d-flex" role="search">
-                        <a href="#" class="btn btn-primary-custom nav-cta me-lg-5"><i
-                                class="fa-solid fa-download fa-fade me-2"></i>
-                            Download Catalogue
-                        </a>
-                    </form>
-                </div>
-            </div>
-        </nav>
-    </section>
+    <?php include "navbar.php"; ?>
 
     <!-- header end -->
 
@@ -355,7 +89,7 @@
                             precision-engineered machines designed for smooth steel bar bending operations.
                         </p>
 
-                        <a href="bar-bending-machine.html" class="btn btn-primary-custom">
+                        <a href="bar-bending-machine.php" class="btn btn-primary-custom">
                             Explore Bar Bending Machines
                             <i class="fa-solid fa-arrow-right ms-2"></i>
                         </a>
@@ -382,7 +116,7 @@
                             performance.
                         </p>
 
-                        <a href="construction-equipment.html" class="btn btn-primary-custom">
+                        <a href="construction-equipment.php" class="btn btn-primary-custom">
                             View Equipment
                             <i class="fa-solid fa-arrow-right ms-2"></i>
                         </a>
@@ -409,8 +143,35 @@
                             durable machinery solutions with reliable performance for various construction applications.
                         </p>
 
-                        <a href="plate-compactor.html" class="btn btn-primary-custom">
+                        <a href="plate-compactor.php" class="btn btn-primary-custom">
                             Explore Plate Compactors
+                            <i class="fa-solid fa-arrow-right ms-2"></i>
+                        </a>
+
+                    </div>
+
+                </div>
+
+                <!-- Banner 3 -->
+                <div class="carousel-item">
+
+                    <img src="img/banner-4.png" class="d-block w-100" alt="Data Logger Manufacturer">
+
+                    <div class="hero-content banner-three">
+
+                        <h1>
+                            RCC Road Paver Machine Manufacturer & Supplier in Delhi
+                        </h1>
+
+                        <p>
+                            Unique Spairparts offers high-performance RCC Road Paver Machines designed for smooth,
+                            accurate, and efficient concrete road paving. Our durable machines deliver reliable
+                            performance, uniform surface finishing, and improved productivity for highways, industrial
+                            roads, and infrastructure projects.
+                        </p>
+
+                        <a href="#" class="btn btn-primary-custom">
+                            Explore RCC Road Paver Machines
                             <i class="fa-solid fa-arrow-right ms-2"></i>
                         </a>
 
@@ -840,7 +601,7 @@
 
                     </div>
 
-                    <a href="about.html" class="btn btn-dark-custom mt-3">
+                    <a href="about.php" class="btn btn-dark-custom mt-3">
                         Read More
                         <i class="fa-solid fa-arrow-right ms-2"></i>
                     </a>
@@ -917,7 +678,7 @@
                                 </div>
 
 
-                                <a href="bar-bending-machine.html" class="product-btn">
+                                <a href="bar-bending-machine.php" class="product-btn">
                                     View Details
                                 </a>
 
@@ -977,7 +738,7 @@
 
 
 
-                                <a href="bar-bending-machine.html" class="product-btn">
+                                <a href="bar-bending-machine.php" class="product-btn">
                                     View Details
                                 </a>
 
@@ -1045,7 +806,7 @@
 
 
 
-                                <a href="construction-equipment.html" class="product-btn">
+                                <a href="construction-equipment.php" class="product-btn">
                                     View Details
                                 </a>
 
@@ -1274,9 +1035,10 @@
                                     Road Paver Finisher
                                 </h3>
 
-                               <p class="product-desc">
-    Durable components built for reliable performance in road paving and heavy-duty construction.
-</p>
+                                <p class="product-desc">
+                                    Durable components built for reliable performance in road paving and heavy-duty
+                                    construction.
+                                </p>
 
                                 <div class="features d-none">
 
@@ -1319,9 +1081,9 @@
                                     Concrete Road Paver Machine
                                 </h3>
 
-                               <p class="product-desc">
-    Reliable road paving machinery for efficient concrete laying and smooth finishing.
-</p>
+                                <p class="product-desc">
+                                    Reliable road paving machinery for efficient concrete laying and smooth finishing.
+                                </p>
                                 <div class="features d-none">
 
                                     <span>
@@ -2087,6 +1849,108 @@
 
     </section>
 
+    <!-- =========================================
+     TRUSTED BRANDS SECTION
+========================================= -->
+
+    <section class="brands-section py-5">
+        <div class="container-fluid">
+
+            <!-- Section Heading -->
+            <div class="text-center mb-4" data-aos="fade-up">
+
+                <span class="section-kicker">
+                    BRANDS WE DEAL IN
+                </span>
+
+                <h2 class="section-title mt-2">
+                    Trusted Brands for Reliable Performance
+                </h2>
+
+                <p class="section-desc mx-auto">
+                    We deal in trusted brands and quality components to ensure
+                    reliable performance across construction machinery and equipment.
+                </p>
+
+            </div>
+
+
+            <!-- Brand Carousel -->
+            <div class="swiper brandSwiper" data-aos="fade-up" data-aos-delay="150">
+
+                <div class="swiper-wrapper">
+
+                    <!-- Brand 1 -->
+                    <div class="swiper-slide">
+                        <div class="brand-card">
+                            <img src="img/brand/1.png" alt="Construction Machinery Brand 1" loading="lazy">
+                        </div>
+                    </div>
+
+                    <!-- Brand 2 -->
+                    <div class="swiper-slide">
+                        <div class="brand-card">
+                            <img src="img/brand/2.png" alt="Construction Machinery Brand 2" loading="lazy">
+                        </div>
+                    </div>
+
+                    <!-- Brand 3 -->
+                    <div class="swiper-slide">
+                        <div class="brand-card">
+                            <img src="img/brand/3.png" alt="Construction Machinery Brand 3" loading="lazy">
+                        </div>
+                    </div>
+
+                    <!-- Brand 4 -->
+                    <div class="swiper-slide">
+                        <div class="brand-card">
+                            <img src="img/brand/4.png" alt="Construction Machinery Brand 4" loading="lazy">
+                        </div>
+                    </div>
+
+                    <!-- Brand 5 -->
+                    <div class="swiper-slide">
+                        <div class="brand-card">
+                            <img src="img/brand/5.png" alt="Construction Machinery Brand 5" loading="lazy">
+                        </div>
+                    </div>
+
+                    <!-- Brand 6 -->
+                    <div class="swiper-slide">
+                        <div class="brand-card">
+                            <img src="img/brand/6.png" alt="Construction Machinery Brand 6" loading="lazy">
+                        </div>
+                    </div>
+
+                    <!-- Brand 7 -->
+                    <div class="swiper-slide">
+                        <div class="brand-card">
+                            <img src="img/brand/7.png" alt="Construction Machinery Brand 7" loading="lazy">
+                        </div>
+                    </div>
+
+                    <!-- Brand 8 -->
+                    <div class="swiper-slide">
+                        <div class="brand-card">
+                            <img src="img/brand/8.png" alt="Construction Machinery Brand 8" loading="lazy">
+                        </div>
+                    </div>
+
+                </div>
+
+                <!-- Navigation -->
+                <div class="swiper-button-next brand-next"><i class="fa-solid fa-arrow-right-long"></i>
+                </div>
+                <div class="swiper-button-prev brand-prev"><i class="fa-solid fa-arrow-left-long"></i></div>
+
+
+            </div>
+
+        </div>
+    </section>
+    <!-- TRUSTED BRANDS SECTION end -->
+
+
     <!-- ================= CONTACT ================= -->
     <section id="contact" class="contact-section section-padding">
         <div class="container">
@@ -2304,204 +2168,18 @@
             </div>
         </div>
     </section>
+    <!-- map start -->
+    <iframe
+        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3497.6041518881166!2d77.14963077604916!3d28.76123347822361!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390d010049f01e6b%3A0xf4f77f174c0fc226!2sUnique%20spairparts!5e0!3m2!1sen!2sin!4v1790666205227!5m2!1sen!2sin"
+        width="100%" height="350" style="border:0;" allowfullscreen="" loading="lazy"
+        referrerpolicy="strict-origin-when-cross-origin"></iframe>
+    <!-- map end -->
 
     <!-- ================= FOOTER ================= -->
 
-    <footer class="footer">
-        <div class="container">
-            <div class="row g-5">
+    <?php include 'footer.php'; ?>
 
-                <!-- Company Info -->
-                <div class="col-lg-4">
-
-                    <div class="footer-brand">
-                        <img src="img/white-logo.png" alt="Unique Spairparts">
-
-                        <div>
-                            <strong>UNIQUE</strong>
-                            <span>SPAIRPARTS</span>
-                        </div>
-                    </div>
-
-                    <p class="mt-3">
-                        Unique Spairparts is a manufacturer of Concrete Road Paver
-                        Machines and a wholesaler of construction machinery spare
-                        parts. Serving construction industry requirements since
-                        2018 from Delhi, India.
-                    </p>
-
-                    <div class="social-links">
-                        <a href="#" aria-label="Facebook">
-                            <i class="fab fa-facebook-f"></i>
-                        </a>
-
-                        <a href="#" aria-label="Instagram">
-                            <i class="fab fa-instagram"></i>
-                        </a>
-
-                        <a href="#" aria-label="LinkedIn">
-                            <i class="fab fa-linkedin-in"></i>
-                        </a>
-
-                        <a href="#" aria-label="YouTube">
-                            <i class="fab fa-youtube"></i>
-                        </a>
-                    </div>
-
-                </div>
-
-
-                <!-- Quick Links -->
-                <div class="col-6 col-lg-2">
-
-                    <h5>Quick Links</h5>
-
-                    <ul>
-                        <li>
-                            <a href="index.html">Home</a>
-                        </li>
-
-                        <li>
-                            <a href="about.html">About Us</a>
-                        </li>
-
-
-                        <li>
-                            <a href="index.html#why-us">Why Choose Us</a>
-                        </li>
-
-                        <li>
-                            <a href="contact.html">Contact Us</a>
-                        </li>
-                    </ul>
-
-                </div>
-
-
-                <!-- Products -->
-                <div class="col-6 col-lg-3">
-
-                    <h5>Our Products</h5>
-
-                    <ul>
-                        <li>
-                            <a href="bar-bending-machine.html">Bar Bending Machine</a>
-                        </li>
-
-                        <li>
-                            <a href="bar-cutting-machine.html">Bar Cutting Machine</a>
-                        </li>
-
-                        <li>
-                            <a href="plate-compactor.html">Plate Compactor</a>
-                        </li>
-
-                        <li>
-                            <a href="construction-equipment.html">Construction Equipment</a>
-                        </li>
-
-                        <li>
-                            <a href="suspended-platform.html">Suspended Platform</a>
-                        </li>
-
-                    </ul>
-
-                </div>
-
-
-                <!-- Contact Information -->
-                <div class="col-lg-3">
-
-                    <h5>Contact Information</h5>
-
-                    <div class="footer-contact">
-
-                        <!-- Phone -->
-                        <div class="footer-contact-item">
-                            <div class="footer-contact-icon">
-                                <i class="fa-solid fa-phone"></i>
-                            </div>
-
-                            <div>
-                                <span>Phone</span>
-                                <p>
-                                    <a href="tel:+919311341657">
-                                        +91 93113 41657
-                                    </a>
-                                </p>
-                                <p>
-                                    <a href="tel:+918860503082">
-                                        +91 88605 03082
-                                    </a>
-                                </p>
-                            </div>
-                        </div>
-
-
-                        <!-- Email -->
-                        <div class="footer-contact-item">
-                            <div class="footer-contact-icon">
-                                <i class="fa-solid fa-envelope"></i>
-                            </div>
-
-                            <div>
-                                <span>Email</span>
-                                <p>
-                                    <a href="mailto:sales@uniquespareparts.com">
-                                        sales@uniquespareparts.com
-                                    </a>
-                                </p>
-                            </div>
-                        </div>
-
-
-                        <!-- Address -->
-                        <div class="footer-contact-item">
-                            <div class="footer-contact-icon">
-                                <i class="fa-solid fa-location-dot"></i>
-                            </div>
-
-                            <div>
-                                <span>Address</span>
-                                <p>
-                                    Khasra No. 376, Ground Floor, Block-J, Swaroop Nagar, Delhi – 110042, India
-                                </p>
-                            </div>
-                        </div>
-
-
-                    </div>
-
-                </div>
-
-            </div>
-
-
-            <!-- Footer Bottom -->
-            <div class="footer-bottom">
-
-                <p>
-                    © <span id="year"></span>
-                    <a href="index.html"> <strong>Unique Spairparts</strong>.</a>
-                    All Rights Reserved.
-                </p>
-
-                <p>
-                    Designed By <a href="http://viraladsmedia.com/"> <strong>viraladsmedia </strong></a>
-                </p>
-
-            </div>
-
-        </div>
-    </footer>
-
-
-
-
-    <button class="back-to-top" id="backToTop" aria-label="Back to top">
-        <i class="fa-solid fa-arrow-up"></i>
-    </button>
-
+    <!-- footer end -->
 
     <!-- Bootstrap JS -->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
@@ -2646,6 +2324,67 @@
                 }
 
             });
+
+        });
+    </script>
+
+    <script>
+        var brandSwiper = new Swiper(".brandSwiper", {
+
+            slidesPerView: 1,
+            spaceBetween: 20,
+
+            loop: true,
+
+            speed: 900,
+
+            autoplay: {
+                delay: 2500,
+                disableOnInteraction: false,
+                pauseOnMouseEnter: true
+            },
+
+            navigation: {
+                nextEl: ".brand-next",
+                prevEl: ".brand-prev"
+            },
+
+            pagination: {
+                el: ".brand-pagination",
+                clickable: true
+            },
+
+            breakpoints: {
+                576: {
+                    slidesPerView: 2,
+                    spaceBetween: 20
+                },
+                576: {
+                    slidesPerView: 2,
+                    spaceBetween: 20
+                },
+
+                768: {
+                    slidesPerView: 3,
+                    spaceBetween: 25
+                },
+
+                992: {
+                    slidesPerView: 4,
+                    spaceBetween: 25
+                },
+
+                1200: {
+                    slidesPerView: 4,
+                    spaceBetween: 30
+                },
+
+                1400: {
+                    slidesPerView: 6,
+                    spaceBetween: 35
+                }
+
+            }
 
         });
     </script>

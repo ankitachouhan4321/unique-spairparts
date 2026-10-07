@@ -1,0 +1,418 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Contact Us - Unique Spairparts | Construction Machinery & Spare Parts Manufacturer & Wholesaler in Delhi
+    </title>
+    <meta name="description"
+        content="Unique Spairparts is a Delhi-based manufacturer of concrete road paver machines and wholesaler of construction machinery spare parts since 2018.">
+    <meta name="keywords"
+        content="Unique Spairparts, concrete road paver machine, construction machinery spare parts, road construction machine, Delhi">
+
+    <link rel="icon" href="img/logo-bg.jpg" type="image/webp">
+
+    <!-- Bootstrap 5 -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css">
+
+    <!-- Google Font -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Barlow:wght@400;500;600;700;800&family=Roboto:wght@400;500;700&display=swap"
+        rel="stylesheet">
+
+    <!-- AOS - light animation -->
+    <link href="https://unpkg.com/aos@2.3.4/dist/aos.css" rel="stylesheet">
+
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/responsive.css">
+
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@12/swiper-bundle.min.css" />
+
+</head>
+
+<body>
+
+    <!-- header start -->
+
+    <?php include "navbar.php"; ?>
+
+    <!-- header end -->
+
+
+    <!-- ================= CONTACT ================= -->
+    <section id="contact" class="contact-section section-padding">
+        <div class="container">
+            <div class="row g-5 align-items-center">
+
+                <div class="col-lg-6" data-aos="fade-right">
+                    <span class="section-kicker">GET IN TOUCH</span>
+                    <h2 class="section-title text-white">
+                        Have a Machinery <span>Requirement?</span>
+                    </h2>
+                    <p class="text-white-50 contact-intro">
+                        Connect with Unique Spairparts for concrete road paver machines and
+                        construction machinery spare parts. Share your requirement with our team
+                        and discuss the suitable product or component for your project.
+                    </p>
+
+                    <div class="contact-info">
+
+
+                        <div class="contact-item">
+                            <i class="fa-solid fa-phone"></i>
+                            <div>
+                                <small>Contact No.</small>
+                                <strong><a href="tel:+919311341657">+91 93113 41657</a> </strong>
+                                <strong><a href="tel:+918860503082">+91 88605 03082</a> </strong>
+                            </div>
+                        </div>
+
+                        <div class="contact-item">
+                            <i class="fa-solid fa-envelope"></i>
+                            <div>
+                                <small>Email</small>
+                                <strong><a href="mailto:sales@uniquespareparts.com"> sales@uniquespareparts.com
+                                    </a></strong>
+                            </div>
+                        </div>
+                        <div class="contact-item">
+                            <i class="fa-solid fa-location-dot"></i>
+                            <div>
+                                <small>Business Location</small>
+                                <strong>Khasra No. 376, Ground Floor, Block-J, Swaroop Nagar, Delhi – 110042, India
+
+                                </strong>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+
+                <div class="col-lg-6" data-aos="fade-left">
+
+                    <div class="contact-form-card">
+
+                        <div class="mb-4">
+
+                            <span class="section-kicker">
+                                SEND AN ENQUIRY
+                            </span>
+
+                            <h3 class="section-title">
+                                Tell Us What You <span>Need</span>
+                            </h3>
+
+                            <p>
+                                Looking for a Bar Bending Machine, construction equipment
+                                or machinery spare parts? Share your requirement with us.
+                            </p>
+
+                        </div>
+
+
+                        <form action="send_mail.php" method="post">
+
+                            <div class="row g-3">
+
+
+                                <!-- Name -->
+                                <div class="col-md-6">
+
+                                    <label for="name" class="form-label">
+                                        Your Name
+                                    </label>
+
+                                    <input type="text" class="form-control" id="name" name="name"
+                                        placeholder="Enter your name" required>
+
+                                </div>
+
+
+                                <!-- Phone -->
+                                <div class="col-md-6">
+
+                                    <label for="phone" class="form-label">
+                                        Phone Number
+                                    </label>
+
+                                    <input type="tel" class="form-control" id="phone" name="phone"
+                                        placeholder="Enter your phone number" required>
+
+                                </div>
+
+
+                                <!-- Email -->
+                                <div class="col-md-6">
+
+                                    <label for="email" class="form-label">
+                                        Email Address
+                                    </label>
+
+                                    <input type="email" class="form-control" id="email" name="email"
+                                        placeholder="Enter your email">
+
+                                </div>
+
+
+                                <!-- Product -->
+                                <div class="col-md-6">
+
+                                    <label for="product" class="form-label">
+                                        Product / Requirement
+                                    </label>
+
+                                    <select class="form-select" id="product" name="product" required>
+
+                                        <option value="" selected disabled>
+                                            Select a product
+                                        </option>
+
+                                        <option value="Bar Bending Machine">
+                                            Bar Bending Machine
+                                        </option>
+
+                                        <option value="Construction Equipment">
+                                            Construction Equipment
+                                        </option>
+
+                                        <option value="Bar Cutting Machine">
+                                            Bar Cutting Machine
+                                        </option>
+
+                                        <option value="Plate Compactor">
+                                            Plate Compactor
+                                        </option>
+
+                                        <option value="Suspended Platform">
+                                            Suspended Platform
+                                        </option>
+
+                                        <option value="Stirrup Bending Machine">
+                                            Stirrup Bending Machine
+                                        </option>
+
+                                        <option value="Power Trowel">
+                                            Power Trowel
+                                        </option>
+
+                                        <option value="Ring Making Machine">
+                                            Ring Making Machine
+                                        </option>
+
+                                        <option value="Machinery Spare Parts">
+                                            Machinery Spare Parts
+                                        </option>
+
+                                        <option value="Other">
+                                            Other Requirement
+                                        </option>
+
+                                    </select>
+
+                                </div>
+
+
+                                <!-- Message -->
+                                <div class="col-12">
+
+                                    <label for="message" class="form-label">
+                                        Your Requirement
+                                    </label>
+
+                                    <textarea class="form-control" id="message" name="message" rows="5"
+                                        placeholder="Tell us about your machine, spare part or project requirement..."
+                                        required></textarea>
+                                </div>
+
+
+                                <!-- Submit -->
+                                <div class="col-12">
+                                    <button type="submit" class="btn btn-primary-custom w-100">
+
+                                        Send Enquiry
+
+                                        <i class="fa-solid fa-paper-plane ms-2"></i>
+
+                                    </button>
+
+                                </div>
+
+
+                            </div>
+
+                        </form>
+
+
+                        <p class="contact-note mt-3 mb-0">
+                            Share your requirement and our team will get in touch with you.
+                        </p>
+
+                    </div>
+
+                </div>
+
+
+
+            </div>
+        </div>
+    </section>
+
+    <!-- map start -->
+    <iframe
+        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3497.6041518881166!2d77.14963077604916!3d28.76123347822361!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390d010049f01e6b%3A0xf4f77f174c0fc226!2sUnique%20spairparts!5e0!3m2!1sen!2sin!4v1790666205227!5m2!1sen!2sin"
+        width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy"
+        referrerpolicy="strict-origin-when-cross-origin"></iframe>
+    <!-- map end -->
+
+    <!-- ================= FOOTER ================= -->
+
+    <?php include 'footer.php'; ?>
+
+    <!-- footer end -->
+
+
+    <!-- Bootstrap JS -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+
+    <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+    <!-- AOS JS -->
+    <script src="https://unpkg.com/aos@2.3.4/dist/aos.js"></script>
+
+    <script>
+        AOS.init({
+            duration: 750,
+            once: true,
+            offset: 70
+        });
+
+        document.getElementById("year").textContent = new Date().getFullYear();
+
+        const backToTop = document.getElementById("backToTop");
+
+        window.addEventListener("scroll", function () {
+            backToTop.classList.toggle("show", window.scrollY > 400);
+        });
+
+        backToTop.addEventListener("click", function () {
+            window.scrollTo({ top: 0, behavior: "smooth" });
+        });
+
+        function showFormMessage() {
+            document.getElementById("formMessage").classList.add("show");
+        }
+
+        // Close mobile menu after clicking a navigation link
+        document.querySelectorAll(".navbar-nav .nav-link").forEach(function (link) {
+            link.addEventListener("click", function () {
+                const nav = document.getElementById("mainNav");
+                if (nav.classList.contains("show")) {
+                    bootstrap.Collapse.getOrCreateInstance(nav).hide();
+                }
+            });
+        });
+    </script>
+
+    <script>
+        const productsSwiper = new Swiper(".productsSwiper", {
+            loop: true,
+            spaceBetween: 25,
+            autoplay: {
+                delay: 3000,
+                disableOnInteraction: false,
+            },
+            navigation: {
+                nextEl: ".productsSwiper .swiper-button-next",
+                prevEl: ".productsSwiper .swiper-button-prev",
+            },
+            breakpoints: {
+                0: {
+                    slidesPerView: 1,
+                },
+                576: {
+                    slidesPerView: 2,
+                },
+                768: {
+                    slidesPerView: 3,
+                },
+                992: {
+                    slidesPerView: 4,
+                },
+                1400: {
+                    slidesPerView: 5,
+                }
+            }
+        });
+
+
+        // category start
+        const categorySwiper = new Swiper(".categorySwiper", {
+            loop: true,
+            spaceBetween: 0,
+            autoplay: {
+                delay: 3000,
+                disableOnInteraction: false,
+            },
+            navigation: {
+                nextEl: ".categorySwiper .swiper-button-next",
+                prevEl: ".categorySwiper .swiper-button-prev",
+            },
+            breakpoints: {
+                0: {
+                    slidesPerView: 2,
+                },
+                576: {
+                    slidesPerView: 2,
+                },
+                768: {
+                    slidesPerView: 4,
+                },
+                992: {
+                    slidesPerView: 5,
+                },
+                1400: {
+                    slidesPerView: 8,
+                }
+            }
+        });
+    </script>
+    <script>
+        document.addEventListener("DOMContentLoaded", function () {
+
+            const productsLink = document.getElementById("productsDropdown");
+            const megaDropdown = document.querySelector(".mega-dropdown");
+
+            if (!productsLink || !megaDropdown) return;
+
+            productsLink.addEventListener("click", function (e) {
+
+                if (window.innerWidth <= 991) {
+
+                    e.preventDefault();
+                    e.stopPropagation();
+
+                    megaDropdown.classList.toggle("show");
+
+                    const isOpen = megaDropdown.classList.contains("show");
+
+                    productsLink.setAttribute(
+                        "aria-expanded",
+                        isOpen ? "true" : "false"
+                    );
+                }
+
+            });
+
+        });
+    </script>
+
+
+</body>
+
+</html>
