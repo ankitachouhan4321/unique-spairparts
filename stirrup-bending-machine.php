@@ -5,7 +5,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <title>Suspended Platform - Unique Spairparts | Construction Machinery & Spare Parts Manufacturer & Wholesaler in
+    <title>Stirrup Bending Machine - Unique Spairparts | Construction Machinery & Spare Parts Manufacturer & Wholesaler
+        in
         Delhi
     </title>
     <meta name="description"
@@ -40,17 +41,16 @@
 <body>
 
 
-     <!-- header start -->
+    <!-- header start -->
 
     <?php include "navbar.php"; ?>
 
     <!-- header end -->
-
     <!-- Breadcrumb -->
     <section class="inner-breadcrumb">
         <div class="container">
             <div class="breadcrumb-content">
-                <h1>Suspended Platform</h1>
+                <h1>Stirrup Bending Machine</h1>
 
                 <nav aria-label="breadcrumb">
                     <ol class="breadcrumb mb-0">
@@ -67,13 +67,15 @@
     </section>
     <div class="container pt-lg-5 pt-3">
         <div class="section-title text-center">
-            Suspended Platform
+            Stirrup Bending Machine
         </div>
         <p class="text-center">
-            Unique Spairparts offers durable and efficient Suspended Platforms for construction and building
-            maintenance applications. Our range includes Construction Platform Lifts, Access Work Platforms,
-            Window Cleaning Cradle Systems, Aerial Work Platforms, Rope Suspended Platform ZLP800, and
-            Suspended Platform Cradles, designed for safe access, reliable performance, and easy operation.
+            Unique Spairparts offers reliable and efficient Stirrup Bending Machines
+            designed for accurately bending TMT bars and steel rods into stirrups
+            used in reinforced concrete construction. Our machines provide consistent
+            bending performance, precise shapes, and efficient operation, making them
+            suitable for construction projects, reinforcement work, and steel fabrication
+            applications.
         </p>
     </div>
 
@@ -98,9 +100,10 @@
         </div>
     </section>
 
+
     <!-- ========================================= Product Details Section 1 ========================================= -->
 
-    <section class="product-details-section py-5 product-item" data-product-name="Construction Platform Lift">
+    <section class="product-details-section py-5 product-item" data-product-name="GW42C Bar Bending Machine">
 
         <div class="container">
 
@@ -118,7 +121,7 @@
 
                         <div class="product-main-image">
 
-                            <img src="img/prod/Suspended-Platform/1.png" alt="Construction Platform Lift"
+                            <img src="img/prod/Stirrup-Bending-Machine/1.png" alt="GW42C Bar Bending Machine"
                                 class="img-fluid mainProductImage">
 
                         </div>
@@ -130,1105 +133,7 @@
 
                             <div class="product-thumb active">
 
-                                <img src="img/prod/Suspended-Platform/1.png" alt="Construction Platform Lift"
-                                    onclick="changeProductImage(this)">
-
-                            </div>
-
-
-                            <div class="product-thumb">
-
-                                <img src="img/prod/Suspended-Platform/1.1.png"
-                                    alt="Construction Platform Lift Side View" onclick="changeProductImage(this)">
-
-                            </div>
-
-                        </div>
-
-                    </div>
-
-                </div>
-
-
-
-                <!-- ================================= RIGHT : PRODUCT CONTENT ================================== -->
-
-                <div class="col-md-7">
-
-                    <div class="product-content">
-
-
-                        <span class="section-kicker mb-0">
-                            Suspended Platform
-                        </span>
-
-
-                        <h1 class="product-title">
-                            Construction Platform Lift
-                        </h1>
-
-
-                        <p class="product-model">
-                            Model: <strong>ZLP800</strong>
-                        </p>
-
-
-
-                        <!-- ================================= SPECIFICATIONS ================================= -->
-
-                        <div class="product-specifications">
-
-                            <h3>Product Specifications</h3>
-
-                            <div class="table-responsive">
-
-                                <table class="table product-spec-table">
-
-                                    <tbody>
-
-                                        <tr>
-                                            <th>Load Capacity</th>
-                                            <td>800 Kg</td>
-
-                                            <th>Work Surface</th>
-                                            <td>Painted Steel</td>
-                                        </tr>
-
-                                        <tr>
-                                            <th>Model Name/Number</th>
-                                            <td>ZLP800</td>
-
-                                            <th>Working Height</th>
-                                            <td>100-150 Mtr</td>
-                                        </tr>
-
-                                        <tr>
-                                            <th>Installation</th>
-                                            <td>Provided</td>
-
-                                            <th>Usage/Application</th>
-                                            <td>Construction</td>
-                                        </tr>
-
-                                        <tr>
-                                            <th>Platform Width</th>
-                                            <td>3.5 Feet</td>
-
-                                            <th>Hoist Power</th>
-                                            <td>2.5 HP, 2 Motor</td>
-                                        </tr>
-
-                                        <tr>
-                                            <th>Minimum Order Quantity</th>
-                                            <td>1 Piece</td>
-
-                                            <th></th>
-                                            <td></td>
-                                        </tr>
-
-                                    </tbody>
-
-                                </table>
-
-                            </div>
-
-                        </div>
-
-
-
-                        <!-- ================================= PRODUCT DESCRIPTION ================================= -->
-
-                        <button type="button" class="read-more-btn" onclick="toggleDescription(this)">
-
-                            Read More
-                            <i class="fas fa-chevron-down"></i>
-
-                        </button>
-
-
-                        <div class="product-description">
-
-                            <p>
-                                Construction Platform Lift is designed for safe and convenient
-                                access during high-rise construction, maintenance and exterior work.
-                            </p>
-
-                            <p>
-                                The ZLP800 model offers an 800 kg load capacity, working height
-                                of 100-150 metres and a durable painted steel platform.
-                            </p>
-
-                            <p>
-                                It is suitable for suspended platform applications and is powered
-                                by dual 2.5 HP hoist motors for reliable lifting performance.
-                            </p>
-
-                        </div>
-
-
-
-                        <!-- ================================= BUTTONS ================================= -->
-
-                        <div class="product-buttons">
-
-                            <button class="border-0 bg-transparent">
-
-                                <a href="https://wa.me/+919311341657" class="btn btn-primary-custom">
-
-                                    Enquiry Now
-                                    <i class="fa-brands fa-whatsapp"></i>
-
-                                </a>
-
-                            </button>
-
-
-                            <button class="border-0 bg-transparent">
-
-                                <a href="tel:+919311341657" class="btn btn-dark-custom">
-
-                                    Call Now
-
-                                </a>
-
-                            </button>
-
-                        </div>
-
-
-                    </div>
-
-                </div>
-
-            </div>
-
-        </div>
-
-    </section>
-
-    <!-- ========================================= Product Details Section 2 ========================================= -->
-
-    <section class="product-details-section py-5 product-item" data-product-name="Access Work Platform">
-        <div class="container">
-
-            <div class="row g-5 align-items-start">
-
-                <!-- ================================= LEFT : PRODUCT IMAGE ================================== -->
-
-                <div class="col-md-5">
-
-                    <div class="product-gallery sticky-product">
-
-
-                        <!-- Main Image -->
-
-                        <div class="product-main-image">
-
-                            <img src="img/prod/Suspended-Platform/2.png" alt="Access Work Platform"
-                                class="img-fluid mainProductImage">
-
-                        </div>
-
-
-                        <!-- Thumbnail Images -->
-
-                        <div class="product-thumbnails">
-
-                            <div class="product-thumb active">
-
-                                <img src="img/prod/Suspended-Platform/2.png" alt="Access Work Platform"
-                                    onclick="changeProductImage(this)">
-
-                            </div>
-
-
-                            <div class="product-thumb">
-
-                                <img src="img/prod/Suspended-Platform/2.1.png" alt="Access Work Platform Side View"
-                                    onclick="changeProductImage(this)">
-
-                            </div>
-
-                        </div>
-
-                    </div>
-
-                </div>
-
-
-
-                <!-- ================================= RIGHT : PRODUCT CONTENT ================================== -->
-
-                <div class="col-md-7">
-
-                    <div class="product-content">
-
-
-                        <span class="section-kicker mb-0">
-                            Suspended Platform
-                        </span>
-
-
-                        <h1 class="product-title">
-                            Access Work Platform
-                        </h1>
-
-
-                        <p class="product-model">
-                            Model: <strong>ZLP800</strong>
-                        </p>
-
-
-
-                        <!-- ================================= SPECIFICATIONS ================================= -->
-
-                        <div class="product-specifications">
-
-                            <h3>Product Specifications</h3>
-
-                            <div class="table-responsive">
-
-                                <table class="table product-spec-table">
-
-                                    <tbody>
-
-                                        <tr>
-                                            <th>Platform Type</th>
-                                            <td>Step Platform</td>
-
-                                            <th>Platform Height</th>
-                                            <td>100 Mtr</td>
-                                        </tr>
-
-                                        <tr>
-                                            <th>Load Capacity</th>
-                                            <td>800 Kg</td>
-
-                                            <th>Work Surface</th>
-                                            <td>Hot Dip Galvanizing</td>
-                                        </tr>
-
-                                        <tr>
-                                            <th>Material</th>
-                                            <td>Stainless Steel</td>
-
-                                            <th>Stair Access</th>
-                                            <td>With Ladder</td>
-                                        </tr>
-
-                                        <tr>
-                                            <th>Platform Size</th>
-                                            <td>700 × 700 mm</td>
-
-                                            <th>Model Name/Number</th>
-                                            <td>ZLP800</td>
-                                        </tr>
-
-                                        <tr>
-                                            <th>Installation</th>
-                                            <td>Provided</td>
-
-                                            <th>Usage/Application</th>
-                                            <td>Construction</td>
-                                        </tr>
-
-                                        <tr>
-                                            <th>Platform Width</th>
-                                            <td>(1+1.5+2.5+2.5) Mtr</td>
-
-                                            <th>Adjustable Size</th>
-                                            <td>3.75-5.75 Feet</td>
-                                        </tr>
-
-                                        <tr>
-                                            <th>After Sales Service Required</th>
-                                            <td>Available</td>
-
-                                            <th>Warranty</th>
-                                            <td>One Year</td>
-                                        </tr>
-
-                                        <tr>
-                                            <th>Lock System</th>
-                                            <td>Include</td>
-
-                                            <th>Weight</th>
-                                            <td>2000 Kg</td>
-                                        </tr>
-
-                                        <tr>
-                                            <th>Minimum Order Quantity</th>
-                                            <td>1 Piece</td>
-
-                                            <th></th>
-                                            <td></td>
-                                        </tr>
-
-                                    </tbody>
-
-                                </table>
-
-                            </div>
-
-                        </div>
-
-
-
-                        <!-- ================================= PRODUCT DESCRIPTION ================================= -->
-
-                        <button type="button" class="read-more-btn" onclick="toggleDescription(this)">
-
-                            Read More
-                            <i class="fas fa-chevron-down"></i>
-
-                        </button>
-
-
-                        <div class="product-description">
-
-                            <p>
-                                Access Work Platform is designed for safe and convenient elevated
-                                access during construction, maintenance and exterior building work.
-                            </p>
-
-                            <p>
-                                The ZLP800 model offers an 800 kg load capacity, up to 100 metre
-                                platform height and a durable hot-dip galvanized work surface.
-                            </p>
-
-                            <p>
-                                It includes ladder access, lock system and adjustable platform
-                                sizing, making it suitable for different suspended platform applications.
-                            </p>
-
-                        </div>
-
-
-
-                        <!-- ================================= BUTTONS ================================= -->
-
-                        <div class="product-buttons">
-
-                            <button class="border-0 bg-transparent">
-
-                                <a href="https://wa.me/+919311341657" class="btn btn-primary-custom">
-
-                                    Enquiry Now
-                                    <i class="fa-brands fa-whatsapp"></i>
-
-                                </a>
-
-                            </button>
-
-
-                            <button class="border-0 bg-transparent">
-
-                                <a href="tel:+919311341657" class="btn btn-dark-custom">
-
-                                    Call Now
-
-                                </a>
-
-                            </button>
-
-                        </div>
-
-
-                    </div>
-
-                </div>
-
-            </div>
-
-        </div>
-
-    </section>
-
-    <!-- ========================================= Product Details Section 3 ========================================= -->
-
-    <section class="product-details-section py-5 product-item" data-product-name="Window Cleaning Cradle System">
-
-        <div class="container">
-
-            <div class="row g-5 align-items-start">
-
-
-                <!-- ================================= LEFT : PRODUCT IMAGE ================================== -->
-
-                <div class="col-md-5">
-
-                    <div class="product-gallery sticky-product">
-
-
-                        <!-- Main Image -->
-
-                        <div class="product-main-image">
-
-                            <img src="img/prod/Suspended-Platform/3.png" alt="Window Cleaning Cradle System"
-                                class="img-fluid mainProductImage">
-
-                        </div>
-
-
-                        <!-- Thumbnail Images -->
-
-                        <div class="product-thumbnails">
-
-                            <div class="product-thumb active">
-
-                                <img src="img/prod/Suspended-Platform/3.png" alt="Window Cleaning Cradle System"
-                                    onclick="changeProductImage(this)">
-
-                            </div>
-
-
-                            <div class="product-thumb">
-
-                                <img src="img/prod/Suspended-Platform/3.1.png"
-                                    alt="Window Cleaning Cradle System Side View" onclick="changeProductImage(this)">
-
-                            </div>
-
-
-                            <div class="product-thumb">
-
-                                <img src="img/prod/Suspended-Platform/3.2.png"
-                                    alt="Window Cleaning Cradle System Platform View"
-                                    onclick="changeProductImage(this)">
-
-                            </div>
-
-
-                            <div class="product-thumb">
-
-                                <img src="img/prod/Suspended-Platform/3.3.png"
-                                    alt="Window Cleaning Cradle System Detail View" onclick="changeProductImage(this)">
-
-                            </div>
-
-                        </div>
-
-                    </div>
-
-                </div>
-
-
-
-                <!-- ================================= RIGHT : PRODUCT CONTENT ================================== -->
-
-                <div class="col-md-7">
-
-                    <div class="product-content">
-
-
-                        <span class="section-kicker mb-0">
-                            Suspended Platform
-                        </span>
-
-
-                        <h1 class="product-title">
-                            Window Cleaning Cradle System
-                        </h1>
-
-
-                        <p class="product-model">
-                            Model: <strong>ZLP800</strong>
-                        </p>
-
-
-
-                        <!-- ================================= SPECIFICATIONS ================================= -->
-
-                        <div class="product-specifications">
-
-                            <h3>Product Specifications</h3>
-
-                            <div class="table-responsive">
-
-                                <table class="table product-spec-table">
-
-                                    <tbody>
-
-                                        <tr>
-                                            <th>Load Capacity</th>
-                                            <td>1000 Kg</td>
-
-                                            <th>Material</th>
-                                            <td>Hot Deep Galvanize</td>
-                                        </tr>
-
-                                        <tr>
-                                            <th>Material Of Platform</th>
-                                            <td>Galvanized</td>
-
-                                            <th>Model Name/Number</th>
-                                            <td>ZLP800</td>
-                                        </tr>
-
-                                        <tr>
-                                            <th>Length</th>
-                                            <td>(1+1.5+2.5+2.5) Mtr</td>
-
-                                            <th>Weight</th>
-                                            <td>2 Ton</td>
-                                        </tr>
-
-                                        <tr>
-                                            <th>Country of Origin</th>
-                                            <td>Made in India</td>
-
-                                            <th>Motor Capacity</th>
-                                            <td>1.8 kW</td>
-                                        </tr>
-
-                                        <tr>
-                                            <th>Minimum Order Quantity</th>
-                                            <td>1 Piece</td>
-
-                                            <th></th>
-                                            <td></td>
-                                        </tr>
-
-                                    </tbody>
-
-                                </table>
-
-                            </div>
-
-                        </div>
-
-
-
-                        <!-- ================================= PRODUCT DESCRIPTION ================================= -->
-
-                        <button type="button" class="read-more-btn" onclick="toggleDescription(this)">
-
-                            Read More
-                            <i class="fas fa-chevron-down"></i>
-
-                        </button>
-
-
-                        <div class="product-description">
-
-                            <p>
-                                Window Cleaning Cradle System is designed for safe access during
-                                high-rise window cleaning, maintenance and exterior building work.
-                            </p>
-
-                            <p>
-                                The ZLP800 model offers a 1000 kg load capacity with a galvanized
-                                platform and 1.8 kW motor for dependable suspended operation.
-                            </p>
-
-                            <p>
-                                Its modular platform length and heavy-duty construction make it
-                                suitable for different commercial and construction applications.
-                            </p>
-
-                        </div>
-
-
-
-                        <!-- ================================= BUTTONS ================================= -->
-
-                        <div class="product-buttons">
-
-                            <button class="border-0 bg-transparent">
-
-                                <a href="https://wa.me/+919311341657" class="btn btn-primary-custom">
-
-                                    Enquiry Now
-                                    <i class="fa-brands fa-whatsapp"></i>
-
-                                </a>
-
-                            </button>
-
-
-                            <button class="border-0 bg-transparent">
-
-                                <a href="tel:+919311341657" class="btn btn-dark-custom">
-
-                                    Call Now
-
-                                </a>
-
-                            </button>
-
-                        </div>
-
-
-                    </div>
-
-                </div>
-
-            </div>
-
-        </div>
-
-    </section>
-
-    <!-- ========================================= Product Details Section 4 ========================================= -->
-
-    <section class="product-details-section py-5 product-item" data-product-name="Aerial Work Platforms">
-
-        <div class="container">
-
-            <div class="row g-5 align-items-start">
-
-
-                <!-- ================================= LEFT : PRODUCT IMAGE ================================== -->
-
-                <div class="col-md-5">
-
-                    <div class="product-gallery sticky-product">
-
-
-                        <!-- Main Image -->
-
-                        <div class="product-main-image">
-
-                            <img src="img/prod/Suspended-Platform/4.png" alt="Aerial Work Platforms"
-                                class="img-fluid mainProductImage">
-
-                        </div>
-
-
-                        <!-- Thumbnail Images -->
-
-                        <div class="product-thumbnails">
-
-                            <div class="product-thumb active">
-
-                                <img src="img/prod/Suspended-Platform/4.png" alt="Aerial Work Platforms"
-                                    onclick="changeProductImage(this)">
-
-                            </div>
-
-
-                            <div class="product-thumb">
-
-                                <img src="img/prod/Suspended-Platform/4.1.png" alt="Aerial Work Platforms Side View"
-                                    onclick="changeProductImage(this)">
-
-                            </div>
-
-                        </div>
-
-                    </div>
-
-                </div>
-
-
-
-                <!-- ================================= RIGHT : PRODUCT CONTENT ================================== -->
-
-                <div class="col-md-7">
-
-                    <div class="product-content">
-
-
-                        <span class="section-kicker mb-0">
-                            Suspended Platform
-                        </span>
-
-
-                        <h1 class="product-title">
-                            Aerial Work Platforms
-                        </h1>
-
-
-                        <p class="product-model">
-                            Model: <strong>ZLP800</strong>
-                        </p>
-
-
-
-                        <!-- ================================= SPECIFICATIONS ================================= -->
-
-                        <div class="product-specifications">
-
-                            <h3>Product Specifications</h3>
-
-                            <div class="table-responsive">
-
-                                <table class="table product-spec-table">
-
-                                    <tbody>
-
-                                        <tr>
-                                            <th>Load Capacity</th>
-                                            <td>800 Kg</td>
-
-                                            <th>Work Surface</th>
-                                            <td>Hot Dip Gal</td>
-                                        </tr>
-
-                                        <tr>
-                                            <th>Type Of Mast</th>
-                                            <td>Double Mast</td>
-
-                                            <th>Model Name/Number</th>
-                                            <td>ZLP800</td>
-                                        </tr>
-
-                                        <tr>
-                                            <th>Working Height</th>
-                                            <td>25 m/Min</td>
-
-                                            <th>Installation</th>
-                                            <td>Provided</td>
-                                        </tr>
-
-                                        <tr>
-                                            <th>Usage/Application</th>
-                                            <td>
-                                                Construction, Electrical Fitting,
-                                                Painting, Glass Work
-                                            </td>
-
-                                            <th>Country of Origin</th>
-                                            <td>Made in India</td>
-                                        </tr>
-
-                                        <tr>
-                                            <th>Minimum Order Quantity</th>
-                                            <td>1 Piece</td>
-
-                                            <th></th>
-                                            <td></td>
-                                        </tr>
-
-                                    </tbody>
-
-                                </table>
-
-                            </div>
-
-                        </div>
-
-
-
-                        <!-- ================================= PRODUCT DESCRIPTION ================================= -->
-
-                        <button type="button" class="read-more-btn" onclick="toggleDescription(this)">
-
-                            Read More
-                            <i class="fas fa-chevron-down"></i>
-
-                        </button>
-
-
-                        <div class="product-description">
-
-                            <p>
-                                Aerial Work Platforms are designed for safe and convenient
-                                elevated access during construction and maintenance work.
-                            </p>
-
-                            <p>
-                                The ZLP800 model offers an 800 kg load capacity with a
-                                double-mast design and hot-dip galvanized work surface.
-                            </p>
-
-                            <p>
-                                It is suitable for construction, electrical fitting, painting,
-                                glass work and other elevated access applications.
-                            </p>
-
-                        </div>
-
-
-
-                        <!-- ================================= BUTTONS ================================= -->
-
-                        <div class="product-buttons">
-
-                            <button class="border-0 bg-transparent">
-
-                                <a href="https://wa.me/+919311341657" class="btn btn-primary-custom">
-
-                                    Enquiry Now
-                                    <i class="fa-brands fa-whatsapp"></i>
-
-                                </a>
-
-                            </button>
-
-
-                            <button class="border-0 bg-transparent">
-
-                                <a href="tel:+919311341657" class="btn btn-dark-custom">
-
-                                    Call Now
-
-                                </a>
-
-                            </button>
-
-                        </div>
-
-
-                    </div>
-
-                </div>
-
-            </div>
-
-        </div>
-
-    </section>
-
-    <!-- ========================================= Product Details Section 5 ========================================= -->
-
-    <section class="product-details-section py-5 product-item" data-product-name="Rope Suspended Platform ZLP800">
-
-        <div class="container">
-
-            <div class="row g-5 align-items-start">
-
-
-                <!-- ================================= LEFT : PRODUCT IMAGE ================================== -->
-
-                <div class="col-md-5">
-
-                    <div class="product-gallery sticky-product">
-
-
-                        <!-- Main Image -->
-
-                        <div class="product-main-image">
-
-                            <img src="img/prod/Suspended-Platform/5.png" alt="Rope Suspended Platform ZLP800"
-                                class="img-fluid mainProductImage">
-
-                        </div>
-
-
-                        <!-- Thumbnail Images -->
-
-                        <div class="product-thumbnails">
-
-                            <div class="product-thumb active">
-
-                                <img src="img/prod/Suspended-Platform/5.png" alt="Rope Suspended Platform ZLP800"
-                                    onclick="changeProductImage(this)">
-
-                            </div>
-
-
-                            <div class="product-thumb">
-
-                                <img src="img/prod/Suspended-Platform/5.1.png"
-                                    alt="Rope Suspended Platform ZLP800 Side View" onclick="changeProductImage(this)">
-
-                            </div>
-
-                        </div>
-
-                    </div>
-
-                </div>
-
-
-
-                <!-- ================================= RIGHT : PRODUCT CONTENT ================================== -->
-
-                <div class="col-md-7">
-
-                    <div class="product-content">
-
-
-                        <span class="section-kicker mb-0">
-                            Suspended Platform
-                        </span>
-
-
-                        <h1 class="product-title">
-                            Rope Suspended Platform ZLP800
-                        </h1>
-
-
-                        <p class="product-model">
-                            Model: <strong>ZLP800</strong>
-                        </p>
-
-
-
-                        <!-- ================================= SPECIFICATIONS ================================= -->
-
-                        <div class="product-specifications">
-
-                            <h3>Product Specifications</h3>
-
-                            <div class="table-responsive">
-
-                                <table class="table product-spec-table">
-
-                                    <tbody>
-
-                                        <tr>
-                                            <th>Platform Type</th>
-                                            <td>ZLP Series</td>
-
-                                            <th>Load Capacity</th>
-                                            <td>800 Kg</td>
-                                        </tr>
-
-                                        <tr>
-                                            <th>Platform Length</th>
-                                            <td>(1+1.5+2.5+2.5) Mtr</td>
-
-                                            <th>Hoist Model</th>
-                                            <td>ZLP800</td>
-                                        </tr>
-
-                                        <tr>
-                                            <th>Lifting Speed</th>
-                                            <td>10 m/min</td>
-
-                                            <th>Power Supply</th>
-                                            <td>415 V 3 Phase</td>
-                                        </tr>
-
-                                        <tr>
-                                            <th>Material Of Platform</th>
-                                            <td>Hot Deep Galvanized</td>
-
-                                            <th>Platform Width</th>
-                                            <td>2 Feet</td>
-                                        </tr>
-
-                                        <tr>
-                                            <th>Installation</th>
-                                            <td>Provided</td>
-
-                                            <th>Safety Lock Type</th>
-                                            <td>Anti Tilting, 30 kN</td>
-                                        </tr>
-
-                                        <tr>
-                                            <th>Counterweight</th>
-                                            <td>Steel Counter Weight</td>
-
-                                            <th>Minimum Order Quantity</th>
-                                            <td>1 Piece</td>
-                                        </tr>
-
-                                    </tbody>
-
-                                </table>
-
-                            </div>
-
-                        </div>
-
-
-
-                        <!-- ================================= PRODUCT DESCRIPTION ================================= -->
-
-                        <button type="button" class="read-more-btn" onclick="toggleDescription(this)">
-
-                            Read More
-                            <i class="fas fa-chevron-down"></i>
-
-                        </button>
-
-
-                        <div class="product-description">
-
-                            <p>
-                                Rope Suspended Platform ZLP800 is designed for safe and efficient
-                                elevated access during construction, maintenance and exterior building work.
-                            </p>
-
-                            <p>
-                                It offers an 800 kg load capacity, 10 m/min lifting speed and
-                                a hot-dip galvanized platform for durable performance.
-                            </p>
-
-                            <p>
-                                The system includes an anti-tilting safety lock, steel counterweights
-                                and 415 V three-phase power supply for dependable suspended operation.
-                            </p>
-
-                        </div>
-
-
-
-                        <!-- ================================= BUTTONS ================================= -->
-
-                        <div class="product-buttons">
-
-                            <button class="border-0 bg-transparent">
-
-                                <a href="https://wa.me/+919311341657" class="btn btn-primary-custom">
-
-                                    Enquiry Now
-                                    <i class="fa-brands fa-whatsapp"></i>
-
-                                </a>
-
-                            </button>
-
-
-                            <button class="border-0 bg-transparent">
-
-                                <a href="tel:+919311341657" class="btn btn-dark-custom">
-
-                                    Call Now
-
-                                </a>
-
-                            </button>
-
-                        </div>
-
-
-                    </div>
-
-                </div>
-
-            </div>
-
-        </div>
-
-    </section>
-
-    <!-- ========================================= Product Details Section 6 ========================================= -->
-
-    <section class="product-details-section py-5 product-item" data-product-name="Suspended Platform Cradle">
-
-        <div class="container">
-
-            <div class="row g-5 align-items-start">
-
-
-                <!-- ================================= LEFT : PRODUCT IMAGE ================================== -->
-
-                <div class="col-md-5">
-
-                    <div class="product-gallery sticky-product">
-
-
-                        <!-- Main Image -->
-
-                        <div class="product-main-image">
-
-                            <img src="img/prod/Suspended-Platform/6.png" alt="Suspended Platform Cradle"
-                                class="img-fluid mainProductImage">
-
-                        </div>
-
-
-                        <!-- Thumbnail Images -->
-
-                        <div class="product-thumbnails">
-
-                            <div class="product-thumb active">
-
-                                <img src="img/prod/Suspended-Platform/6.png" alt="Suspended Platform Cradle"
+                                <img src="img/prod/Stirrup-Bending-Machine/1.png" alt="GW42C Bar Bending Machine"
                                     onclick="changeProductImage(this)">
 
                             </div>
@@ -1236,8 +141,8 @@
 
                             <!-- <div class="product-thumb">
 
-                            <img src="img/prod/Suspended-Platform/6.1.png"
-                                alt="Suspended Platform Cradle Side View"
+                            <img src="img/prod/Stirrup-Bending-Machine/1.1.png"
+                                alt="GW42C Bar Bending Machine Side View"
                                 onclick="changeProductImage(this)">
 
                         </div> -->
@@ -1258,19 +163,18 @@
 
 
                         <span class="section-kicker mb-0">
-                            Suspended Platform
+                            Stirrup Bending Machine
                         </span>
 
 
                         <h1 class="product-title">
-                            Suspended Platform Cradle
+                            GW42C Bar Bending Machine
                         </h1>
 
 
                         <p class="product-model">
-                            Model: <strong>ZLP800</strong>
+                            Model: <strong>GW42C</strong>
                         </p>
-
 
 
                         <!-- ================================= SPECIFICATIONS ================================= -->
@@ -1286,53 +190,39 @@
                                     <tbody>
 
                                         <tr>
-                                            <th>Platform Type</th>
-                                            <td>ZLP Series</td>
+                                            <th>Automation Grade</th>
+                                            <td>Automatic</td>
 
-                                            <th>Capacity</th>
-                                            <td>800 Kg</td>
+                                            <th>Bar Dimensions</th>
+                                            <td>6-28mm</td>
                                         </tr>
 
                                         <tr>
-                                            <th>Load Capacity</th>
-                                            <td>800 Kg</td>
+                                            <th>Model Name/Number</th>
+                                            <td>GW42C</td>
 
-                                            <th>Platform Length</th>
-                                            <td>7.5 m</td>
+                                            <th>Power Source</th>
+                                            <td>Electric</td>
                                         </tr>
 
                                         <tr>
-                                            <th>Hoist Model</th>
-                                            <td>ZLP800</td>
+                                            <th>Motor Speed</th>
+                                            <td>1440rpm</td>
 
-                                            <th>Lifting Speed</th>
-                                            <td>10 m/min</td>
+                                            <th>TMT Bar Steel Dia.</th>
+                                            <td>28mm</td>
                                         </tr>
 
                                         <tr>
-                                            <th>Power Supply</th>
-                                            <td>415 V 3 Phase</td>
-
-                                            <th>Material Of Platform</th>
-                                            <td>Galvanized</td>
-                                        </tr>
-
-                                        <tr>
-                                            <th>Type Of Mast</th>
-                                            <td>Single Mast</td>
-
-                                            <th>Work Surface</th>
-                                            <td>Stainless Steel, Hardwood</td>
-                                        </tr>
-
-                                        <tr>
-                                            <th>Installation</th>
-                                            <td>Provided</td>
+                                            <th>Body Material</th>
+                                            <td>Steel</td>
 
                                             <th>Country of Origin</th>
                                             <td>Made in India</td>
                                         </tr>
 
+
+
                                     </tbody>
 
                                 </table>
@@ -1356,18 +246,27 @@
                         <div class="product-description">
 
                             <p>
-                                Suspended Platform Cradle is designed for safe and efficient
-                                elevated access during construction, maintenance and exterior work.
+                                The GW42C Bar Bending Machine is designed for
+                                accurate and efficient bending of TMT and steel
+                                bars used in construction projects. It supports
+                                bar diameters from 6mm to 28mm and allows
+                                bending into different shapes.
                             </p>
 
                             <p>
-                                The ZLP800 model provides an 800 kg load capacity, 7.5 metre
-                                platform length and lifting speed of 10 m/min.
+                                Built with a durable steel body, the machine
+                                features a 1440rpm motor and high-quality gears
+                                and shafts for reliable performance. Its simple
+                                operation and sturdy construction make it suitable
+                                for regular construction work.
                             </p>
 
                             <p>
-                                Its galvanized construction, single-mast setup and 415 V
-                                three-phase power supply make it suitable for reliable suspended operations.
+                                The machine uses high-rigidity steel components,
+                                processed for improved wear and fatigue resistance.
+                                Its compact design, stable operation and efficient
+                                bending performance make it a practical choice
+                                for construction applications.
                             </p>
 
                         </div>
@@ -1413,9 +312,11 @@
 
     </section>
 
-    <!-- ========================================= Product Details Section 7 ========================================= -->
 
-    <section class="product-details-section py-5 product-item" data-product-name="Rope Suspended Work Platform ZLP800">
+
+    <!-- ========================================= Product Details Section 2 ========================================= -->
+
+    <section class="product-details-section py-5 product-item" data-product-name="GW42J Bar Bending Machine">
 
         <div class="container">
 
@@ -1433,7 +334,7 @@
 
                         <div class="product-main-image">
 
-                            <img src="img/prod/Suspended-Platform/7.png" alt="Rope Suspended Work Platform ZLP800"
+                            <img src="img/prod/Stirrup-Bending-Machine/2.png" alt="GW42J Bar Bending Machine"
                                 class="img-fluid mainProductImage">
 
                         </div>
@@ -1445,7 +346,7 @@
 
                             <div class="product-thumb active">
 
-                                <img src="img/prod/Suspended-Platform/7.png" alt="Rope Suspended Work Platform ZLP800"
+                                <img src="img/prod/Stirrup-Bending-Machine/2.png" alt="GW42J Bar Bending Machine"
                                     onclick="changeProductImage(this)">
 
                             </div>
@@ -1453,9 +354,8 @@
 
                             <div class="product-thumb">
 
-                                <img src="img/prod/Suspended-Platform/7.1.png"
-                                    alt="Rope Suspended Work Platform ZLP800 Side View"
-                                    onclick="changeProductImage(this)">
+                                <img src="img/prod/Stirrup-Bending-Machine/2.1.png"
+                                    alt="GW42J Bar Bending Machine Side View" onclick="changeProductImage(this)">
 
                             </div>
 
@@ -1475,17 +375,17 @@
 
 
                         <span class="section-kicker mb-0">
-                            Suspended Platform
+                            Stirrup Bending Machine
                         </span>
 
 
                         <h1 class="product-title">
-                            Rope Suspended Work Platform ZLP800
+                            GW42J Bar Bending Machine
                         </h1>
 
 
                         <p class="product-model">
-                            Model: <strong>ZLP800</strong>
+                            Model: <strong>GW42J</strong>
                         </p>
 
 
@@ -1503,273 +403,48 @@
                                     <tbody>
 
                                         <tr>
-                                            <th>Capacity</th>
-                                            <td>800 Kg</td>
+                                            <th>Automation Grade</th>
+                                            <td>Automatic</td>
 
+                                            <th>Bar Dimensions</th>
+                                            <td>32mm</td>
+                                        </tr>
+
+                                        <tr>
                                             <th>Model Name/Number</th>
-                                            <td>ZLP800</td>
+                                            <td>GW42J</td>
+
+                                            <th>Max Bending Angle</th>
+                                            <td>180 degree</td>
                                         </tr>
 
                                         <tr>
-                                            <th>Material Of Platform</th>
-                                            <td>Galvanized</td>
+                                            <th>Max Bending Radius</th>
+                                            <td>100 mm</td>
 
-                                            <th>Platform Length</th>
-                                            <td>(1+1.5+2.5+2.5) 7.5 Mtr</td>
+                                            <th>Bend Direction</th>
+                                            <td>Clockwise</td>
                                         </tr>
 
                                         <tr>
-                                            <th>Type Of Mast</th>
-                                            <td>Double Mast</td>
+                                            <th>Power Source</th>
+                                            <td>Electric</td>
 
-                                            <th>Work Surface</th>
-                                            <td>Stainless Steel</td>
+                                            <th>Motor Speed</th>
+                                            <td>1440rpm</td>
                                         </tr>
 
                                         <tr>
-                                            <th>Suspended Height</th>
-                                            <td>100 Mtr</td>
+                                            <th>TMT Bar Steel Dia.</th>
+                                            <td>32mm</td>
 
-                                            <th>Machine Weight</th>
-                                            <td>2 Ton</td>
+                                            <th>Body Material</th>
+                                            <td>Iron</td>
                                         </tr>
 
                                         <tr>
-                                            <th>Rated Power</th>
-                                            <td>1.8 kW / 2.5 HP</td>
-
-                                            <th>Safety Lock Type</th>
-                                            <td>Anti Tilting, 30 kN</td>
-                                        </tr>
-
-                                        <tr>
-                                            <th>Counterweight</th>
-                                            <td>1000 Kg</td>
-
                                             <th>Minimum Order Quantity</th>
                                             <td>1 Piece</td>
-                                        </tr>
-
-                                    </tbody>
-
-                                </table>
-
-                            </div>
-
-                        </div>
-
-
-
-                        <!-- ================================= PRODUCT DESCRIPTION ================================= -->
-
-                        <button type="button" class="read-more-btn" onclick="toggleDescription(this)">
-
-                            Read More
-                            <i class="fas fa-chevron-down"></i>
-
-                        </button>
-
-
-                        <div class="product-description">
-
-                            <p>
-                                Rope Suspended Work Platform ZLP800 is designed for safe and
-                                efficient access during high-rise construction and maintenance work.
-                            </p>
-
-                            <p>
-                                It offers an 800 kg capacity, 100 metre suspended height and
-                                galvanized platform with a durable double-mast structure.
-                            </p>
-
-                            <p>
-                                The system includes an anti-tilting safety lock, 1000 kg
-                                counterweight and 1.8 kW / 2.5 HP rated power for reliable operation.
-                            </p>
-
-                        </div>
-
-
-
-                        <!-- ================================= BUTTONS ================================= -->
-
-                        <div class="product-buttons">
-
-                            <button class="border-0 bg-transparent">
-
-                                <a href="https://wa.me/+919311341657" class="btn btn-primary-custom">
-
-                                    Enquiry Now
-                                    <i class="fa-brands fa-whatsapp"></i>
-
-                                </a>
-
-                            </button>
-
-
-                            <button class="border-0 bg-transparent">
-
-                                <a href="tel:+919311341657" class="btn btn-dark-custom">
-
-                                    Call Now
-
-                                </a>
-
-                            </button>
-
-                        </div>
-
-
-                    </div>
-
-                </div>
-
-            </div>
-
-        </div>
-
-    </section>
-
-    <!-- ========================================= Product Details Section : Stainless Steel Suspended Platform ========================================= -->
-
-    <section class="product-details-section py-5 product-item" data-product-name="Stainless Steel Suspended Platform">
-
-        <div class="container">
-
-            <div class="row g-5 align-items-start">
-
-
-                <!-- ================================= LEFT : PRODUCT IMAGE ================================== -->
-
-                <div class="col-md-5">
-
-                    <div class="product-gallery sticky-product">
-
-
-                        <!-- Main Image -->
-
-                        <div class="product-main-image">
-
-                            <img src="img/prod/Suspended-Platform/8.png" alt="Stainless Steel Suspended Platform"
-                                class="img-fluid mainProductImage">
-
-                        </div>
-
-
-                        <!-- Thumbnail Images -->
-
-                        <div class="product-thumbnails">
-
-                            <div class="product-thumb active">
-
-                                <img src="img/prod/Suspended-Platform/8.png" alt="Stainless Steel Suspended Platform"
-                                    onclick="changeProductImage(this)">
-
-                            </div>
-
-
-                            <div class="product-thumb">
-
-                                <img src="img/prod/Suspended-Platform/8.1.png"
-                                    alt="Stainless Steel Suspended Platform Side View"
-                                    onclick="changeProductImage(this)">
-
-                            </div>
-
-                        </div>
-
-                    </div>
-
-                </div>
-
-
-
-                <!-- ================================= RIGHT : PRODUCT CONTENT ================================== -->
-
-                <div class="col-md-7">
-
-                    <div class="product-content">
-
-
-                        <span class="section-kicker mb-0">
-                            Suspended Platform
-                        </span>
-
-
-                        <h1 class="product-title">
-                            Stainless Steel Suspended Platform
-                        </h1>
-
-
-                        <p class="product-model">
-                            Model: <strong>ZLP800</strong>
-                        </p>
-
-
-
-                        <!-- ================================= SPECIFICATIONS ================================= -->
-
-                        <div class="product-specifications">
-
-                            <h3>Product Specifications</h3>
-
-                            <div class="table-responsive">
-
-                                <table class="table product-spec-table">
-
-                                    <tbody>
-
-                                        <tr>
-                                            <th>Platform Type</th>
-                                            <td>ZLP Series</td>
-
-                                            <th>Load Capacity</th>
-                                            <td>800 kg</td>
-                                        </tr>
-
-                                        <tr>
-                                            <th>Material</th>
-                                            <td>Stainless Steel</td>
-
-                                            <th>Platform Length</th>
-                                            <td>7.5 m</td>
-                                        </tr>
-
-                                        <tr>
-                                            <th>Size/Dimension</th>
-                                            <td>8×5 feet</td>
-
-                                            <th>Structure</th>
-                                            <td>Platform</td>
-                                        </tr>
-
-                                        <tr>
-                                            <th>Hoist Model</th>
-                                            <td>ZLP800</td>
-
-                                            <th>Lifting Speed</th>
-                                            <td>10 m/min</td>
-                                        </tr>
-
-                                        <tr>
-                                            <th>Power Supply</th>
-                                            <td>415 V 3 Phase</td>
-
-                                            <th>Color</th>
-                                            <td>Silver</td>
-                                        </tr>
-
-                                        <tr>
-                                            <th>No Of Wheels</th>
-                                            <td>2</td>
-
-                                            <th>Usage/Application</th>
-                                            <td>Industrial</td>
-                                        </tr>
-
-                                        <tr>
-                                            <th>Finish</th>
-                                            <td>Polished</td>
 
                                             <th></th>
                                             <td></td>
@@ -1798,19 +473,27 @@
                         <div class="product-description">
 
                             <p>
-                                Stainless Steel Suspended Platform is designed for industrial and
-                                construction applications where reliable elevated access is required.
+                                The GW42J Bar Bending Machine is designed for
+                                efficient and precise bending of reinforcement
+                                steel bars in construction projects. It supports
+                                bar diameters up to 32mm and offers adjustable
+                                bending angles up to 180 degrees.
                             </p>
 
                             <p>
-                                The ZLP Series platform has an 800 kg load capacity, 7.5 m platform
-                                length and a polished stainless steel structure for durable performance.
+                                Powered by an electric motor operating at
+                                1440rpm, the machine provides reliable bending
+                                performance. Its sturdy iron body and clockwise
+                                bending mechanism ensure stable operation
+                                during regular construction work.
                             </p>
 
                             <p>
-                                Equipped with a ZLP800 hoist and a lifting speed of 10 m/min, it is
-                                suitable for building maintenance, painting, repair and other
-                                suspended working requirements.
+                                The GW42J features durable components, simple
+                                controls and an efficient bending system.
+                                It is suitable for construction sites requiring
+                                accurate bar bending, consistent performance
+                                and convenient operation.
                             </p>
 
                         </div>
@@ -1856,9 +539,11 @@
 
     </section>
 
-    <!-- ========================================= Product Details Section 9 - ZLP800 Suspended Platform ========================================= -->
 
-    <section class="product-details-section py-5 product-item" data-product-name="ZLP800 Suspended Platform">
+
+    <!-- ========================================= Product Details Section 3 ========================================= -->
+
+    <section class="product-details-section py-5 product-item" data-product-name="TMT Rod Bending Machine">
 
         <div class="container">
 
@@ -1876,7 +561,7 @@
 
                         <div class="product-main-image">
 
-                            <img src="img/prod/Suspended-Platform/9.png" alt="ZLP800 Suspended Platform"
+                            <img src="img/prod/Stirrup-Bending-Machine/3.png" alt="TMT Rod Bending Machine"
                                 class="img-fluid mainProductImage">
 
                         </div>
@@ -1888,7 +573,7 @@
 
                             <div class="product-thumb active">
 
-                                <img src="img/prod/Suspended-Platform/9.png" alt="ZLP800 Suspended Platform"
+                                <img src="img/prod/Stirrup-Bending-Machine/3.png" alt="TMT Rod Bending Machine"
                                     onclick="changeProductImage(this)">
 
                             </div>
@@ -1896,16 +581,8 @@
 
                             <div class="product-thumb">
 
-                                <img src="img/prod/Suspended-Platform/9.1.png" alt="ZLP800 Suspended Platform Side View"
-                                    onclick="changeProductImage(this)">
-
-                            </div>
-
-
-                            <div class="product-thumb">
-
-                                <img src="img/prod/Suspended-Platform/9.2.png" alt="ZLP800 Suspended Platform Side View"
-                                    onclick="changeProductImage(this)">
+                                <img src="img/prod/Stirrup-Bending-Machine/3.1.png"
+                                    alt="TMT Rod Bending Machine Side View" onclick="changeProductImage(this)">
 
                             </div>
 
@@ -1925,17 +602,17 @@
 
 
                         <span class="section-kicker mb-0">
-                            Suspended Platform
+                            Stirrup Bending Machine
                         </span>
 
 
                         <h1 class="product-title">
-                            ZLP800 Suspended Platform
+                            TMT Rod Bending Machine
                         </h1>
 
 
                         <p class="product-model">
-                            Model: <strong>ZLP800</strong>
+                            Model: <strong>GW42C</strong>
                         </p>
 
 
@@ -1953,35 +630,43 @@
                                     <tbody>
 
                                         <tr>
+                                            <th>Bar Dimensions</th>
+                                            <td>32mm</td>
+
                                             <th>Model Name/Number</th>
-                                            <td>ZLP800</td>
-
-                                            <th>Material Of Platform</th>
-                                            <td>Galvanized</td>
+                                            <td>GW42C</td>
                                         </tr>
 
                                         <tr>
-                                            <th>Load Capacity</th>
-                                            <td>1 Ton</td>
-
-                                            <th>Platform Length</th>
-                                            <td>7 m</td>
-                                        </tr>
-
-                                        <tr>
-                                            <th>Platform Width</th>
-                                            <td>3 m</td>
-
-                                            <th>Type Of Mast</th>
-                                            <td>Single Mast</td>
-                                        </tr>
-
-                                        <tr>
-                                            <th>Work Surface</th>
-                                            <td>Painted Steel</td>
+                                            <th>Power Source</th>
+                                            <td>Electric</td>
 
                                             <th>Machine Weight</th>
-                                            <td>100 kg</td>
+                                            <td>390kg</td>
+                                        </tr>
+
+                                        <tr>
+                                            <th>TMT Bar Steel Dia.</th>
+                                            <td>32mm</td>
+
+                                            <th>Motor Capacity</th>
+                                            <td>3kw/5Hp</td>
+                                        </tr>
+
+                                        <tr>
+                                            <th>Voltage</th>
+                                            <td>415V</td>
+
+                                            <th>Automation Grade</th>
+                                            <td>Automatic</td>
+                                        </tr>
+
+                                        <tr>
+                                            <th>I Deal In</th>
+                                            <td>New Only</td>
+
+                                            <th>Brand</th>
+                                            <td>UNIQUE</td>
                                         </tr>
 
                                     </tbody>
@@ -2007,22 +692,26 @@
                         <div class="product-description">
 
                             <p>
-                                The ZLP800 Suspended Platform is a wall gondola lift system designed
-                                for safe and efficient work on high-rise building facades. It operates
-                                through a rooftop suspension mechanism using durable wire ropes.
+                                The TMT Rod Bending Machine is designed for
+                                efficient and accurate bending of reinforcement
+                                steel bars used in construction projects.
+                                It supports bar diameters up to 32mm and
+                                provides reliable performance for regular use.
                             </p>
 
                             <p>
-                                Equipped with motors on both sides, the platform can move smoothly
-                                upward and downward, making it suitable for exterior construction,
-                                maintenance, painting, cleaning and glass installation work.
+                                The GW42C model features a 3kW/5HP motor,
+                                operates on a 415V electric power supply
+                                and has a sturdy 390kg construction for
+                                stable and consistent bending operations.
                             </p>
 
                             <p>
-                                Its galvanized platform, 1 ton load capacity and sturdy construction
-                                provide reliable performance for demanding construction sites. The
-                                system is especially useful for facade cleaning, repair, decoration
-                                and maintenance work at elevated heights.
+                                Manufactured under the UNIQUE brand, this
+                                automatic machine offers durable construction,
+                                convenient operation and efficient performance.
+                                It is available in new condition and suitable
+                                for various construction requirements.
                             </p>
 
                         </div>
@@ -2068,9 +757,12 @@
 
     </section>
 
-    <!-- ========================================= Product Details Section 10 ========================================= -->
 
-    <section class="product-details-section py-5 product-item" data-product-name="Gondola Suspended Platform">
+
+
+    <!-- ========================================= Product Details Section 4 ========================================= -->
+
+    <section class="product-details-section py-5 product-item" data-product-name="GW52C Bar Bending Machine">
 
         <div class="container">
 
@@ -2088,7 +780,7 @@
 
                         <div class="product-main-image">
 
-                            <img src="img/prod/Suspended-Platform/10.png" alt="Gondola Suspended Platform"
+                            <img src="img/prod/Stirrup-Bending-Machine/4.png" alt="GW52C Bar Bending Machine"
                                 class="img-fluid mainProductImage">
 
                         </div>
@@ -2100,7 +792,7 @@
 
                             <div class="product-thumb active">
 
-                                <img src="img/prod/Suspended-Platform/10.png" alt="Gondola Suspended Platform"
+                                <img src="img/prod/Stirrup-Bending-Machine/4.png" alt="GW52C Bar Bending Machine"
                                     onclick="changeProductImage(this)">
 
                             </div>
@@ -2108,15 +800,8 @@
 
                             <div class="product-thumb">
 
-                                <img src="img/prod/Suspended-Platform/10.1.png"
-                                    alt="Gondola Suspended Platform Side View" onclick="changeProductImage(this)">
-
-                            </div>
-
-                            <div class="product-thumb">
-
-                                <img src="img/prod/Suspended-Platform/10.2.png"
-                                    alt="Gondola Suspended Platform Side View" onclick="changeProductImage(this)">
+                                <img src="img/prod/Stirrup-Bending-Machine/4.1.png"
+                                    alt="GW52C Bar Bending Machine Side View" onclick="changeProductImage(this)">
 
                             </div>
 
@@ -2136,13 +821,19 @@
 
 
                         <span class="section-kicker mb-0">
-                            Suspended Platform
+                            Stirrup Bending Machine
                         </span>
 
 
                         <h1 class="product-title">
-                            Gondola Suspended Platform
+                            GW52C Bar Bending Machine
                         </h1>
+
+
+                        <p class="product-model">
+                            Model: <strong>GW52C</strong>
+                        </p>
+
 
 
                         <!-- ================================= SPECIFICATIONS ================================= -->
@@ -2158,243 +849,478 @@
                                     <tbody>
 
                                         <tr>
-                                            <th>Capacity</th>
-                                            <td>100 Kg</td>
+                                            <th>Max Bending Capacity</th>
+                                            <td>40 mm</td>
 
-                                            <th>Material Of Platform</th>
+                                            <th>Automation Grade</th>
+                                            <td>Automatic</td>
+                                        </tr>
+
+                                        <tr>
+                                            <th>Motor Power</th>
+                                            <td>4kw</td>
+
+                                            <th>Machine Type</th>
+                                            <td>Bar Bender</td>
+                                        </tr>
+
+                                        <tr>
+                                            <th>Power Supply</th>
+                                            <td>Three Phase</td>
+
+                                            <th>Weight</th>
+                                            <td>550 kg</td>
+                                        </tr>
+
+                                        <tr>
+                                            <th>Minimum Order Quantity</th>
+                                            <td>1 Piece</td>
+
+                                            <th></th>
+                                            <td></td>
+                                        </tr>
+
+                                    </tbody>
+
+                                </table>
+
+                            </div>
+
+                        </div>
+
+
+
+                        <!-- ================================= PRODUCT DESCRIPTION ================================= -->
+
+                        <button type="button" class="read-more-btn" onclick="toggleDescription(this)">
+
+                            Read More
+                            <i class="fas fa-chevron-down"></i>
+
+                        </button>
+
+
+                        <div class="product-description">
+
+                            <p>
+                                The GW52C Bar Bending Machine is designed for
+                                efficient and accurate bending of reinforcement
+                                steel bars used in construction projects.
+                                It supports a maximum bending capacity of
+                                40mm and features automatic operation.
+                            </p>
+
+                            <p>
+                                Equipped with a 4kW motor and three-phase
+                                power supply, the machine offers reliable
+                                performance. Its heavy-duty gearbox,
+                                sturdy construction and 550kg weight
+                                provide stability during bending operations.
+                            </p>
+
+                            <p>
+                                The machine is suitable for construction
+                                sites requiring consistent bending accuracy.
+                                Its durable components, convenient controls
+                                and safety-focused design make it ideal
+                                for regular reinforcement bar bending work.
+                            </p>
+
+                        </div>
+
+
+
+                        <!-- ================================= BUTTONS ================================= -->
+
+                        <div class="product-buttons">
+
+                            <button class="border-0 bg-transparent">
+
+                                <a href="https://wa.me/+919311341657" class="btn btn-primary-custom">
+
+                                    Enquiry Now
+                                    <i class="fa-brands fa-whatsapp"></i>
+
+                                </a>
+
+                            </button>
+
+
+                            <button class="border-0 bg-transparent">
+
+                                <a href="tel:+919311341657" class="btn btn-dark-custom">
+
+                                    Call Now
+
+                                </a>
+
+                            </button>
+
+                        </div>
+
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </section>
+
+
+
+    <!-- ========================================= Product Details Section 5 ========================================= -->
+
+    <section class="product-details-section py-5 product-item" data-product-name="GF20 Bar Bending Machine">
+
+        <div class="container">
+
+            <div class="row g-5 align-items-start">
+
+
+                <!-- ================================= LEFT : PRODUCT IMAGE ================================== -->
+
+                <div class="col-md-5">
+
+                    <div class="product-gallery sticky-product">
+
+
+                        <!-- Main Image -->
+
+                        <div class="product-main-image">
+
+                            <img src="img/prod/Stirrup-Bending-Machine/5.png" alt="GF20 Bar Bending Machine"
+                                class="img-fluid mainProductImage">
+
+                        </div>
+
+
+                        <!-- Thumbnail Images -->
+
+                        <div class="product-thumbnails">
+
+                            <div class="product-thumb active">
+
+                                <img src="img/prod/Stirrup-Bending-Machine/5.png" alt="GF20 Bar Bending Machine"
+                                    onclick="changeProductImage(this)">
+
+                            </div>
+
+
+                            <!-- <div class="product-thumb">
+
+                            <img src="img/prod/Stirrup-Bending-Machine/5.1.png"
+                                alt="GF20 Bar Bending Machine Side View"
+                                onclick="changeProductImage(this)">
+
+                        </div> -->
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+
+
+                <!-- ================================= RIGHT : PRODUCT CONTENT ================================== -->
+
+                <div class="col-md-7">
+
+                    <div class="product-content">
+
+
+                        <span class="section-kicker mb-0">
+                            Stirrup Bending Machine
+                        </span>
+
+
+                        <h1 class="product-title">
+                            GF20 Bar Bending Machine
+                        </h1>
+
+
+                        <p class="product-model">
+                            Model: <strong>GF20</strong>
+                        </p>
+
+
+
+                        <!-- ================================= SPECIFICATIONS ================================= -->
+
+                        <div class="product-specifications">
+
+                            <h3>Product Specifications</h3>
+
+                            <div class="table-responsive">
+
+                                <table class="table product-spec-table">
+
+                                    <tbody>
+
+                                        <tr>
+                                            <th>Automation Grade</th>
+                                            <td>Automatic</td>
+
+                                            <th>Bar Dimensions</th>
+                                            <td>4-16mm</td>
+                                        </tr>
+
+                                        <tr>
+                                            <th>Model Name/Number</th>
+                                            <td>GF20</td>
+
+                                            <th>Max Bending Angle</th>
+                                            <td>180 degree</td>
+                                        </tr>
+
+                                        <tr>
+                                            <th>Bend Direction</th>
+                                            <td>Clockwise</td>
+
+                                            <th>Power Source</th>
+                                            <td>Electric</td>
+                                        </tr>
+
+                                        <tr>
+                                            <th>Motor Speed</th>
+                                            <td>2.2kw</td>
+
+                                            <th>TMT Bar Steel Dia.</th>
+                                            <td>16mm</td>
+                                        </tr>
+
+                                        <tr>
+                                            <th>Body Material</th>
+                                            <td>Steel</td>
+
+                                            <th>Country of Origin</th>
+                                            <td>Made in India</td>
+                                        </tr>
+
+                                    </tbody>
+
+                                </table>
+
+                            </div>
+
+                        </div>
+
+
+
+                        <!-- ================================= PRODUCT DESCRIPTION ================================= -->
+
+                        <button type="button" class="read-more-btn" onclick="toggleDescription(this)">
+
+                            Read More
+                            <i class="fas fa-chevron-down"></i>
+
+                        </button>
+
+
+                        <div class="product-description">
+
+                            <p>
+                                The GF20 Bar Bending Machine is designed for
+                                accurate and efficient bending of reinforcement
+                                bars and stirrups used in construction projects.
+                                It supports bar diameters from 4mm to 16mm
+                                and offers bending angles up to 180 degrees.
+                            </p>
+
+                            <p>
+                                Equipped with a 2.2kW electric motor, automatic
+                                operation and a sturdy steel body, the machine
+                                provides reliable bending performance.
+                                Its clockwise bending mechanism ensures
+                                convenient operation for regular use.
+                            </p>
+
+                            <p>
+                                Made in India, the GF20 model is suitable for
+                                stirrup making, ring bending and TMT rod bending.
+                                Its durable construction and simple controls
+                                make it a practical choice for construction
+                                and steel fabrication applications.
+                            </p>
+
+                        </div>
+
+
+
+                        <!-- ================================= BUTTONS ================================= -->
+
+                        <div class="product-buttons">
+
+                            <button class="border-0 bg-transparent">
+
+                                <a href="https://wa.me/+919311341657" class="btn btn-primary-custom">
+
+                                    Enquiry Now
+                                    <i class="fa-brands fa-whatsapp"></i>
+
+                                </a>
+
+                            </button>
+
+
+                            <button class="border-0 bg-transparent">
+
+                                <a href="tel:+919311341657" class="btn btn-dark-custom">
+
+                                    Call Now
+
+                                </a>
+
+                            </button>
+
+                        </div>
+
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </section>
+
+
+
+
+    <!-- ========================================= Product Details Section 6 ========================================= -->
+
+    <section class="product-details-section py-5 product-item" data-product-name="Heavy Duty Bar Bending Machine">
+
+        <div class="container">
+
+            <div class="row g-5 align-items-start">
+
+
+                <!-- ================================= LEFT : PRODUCT IMAGE ================================== -->
+
+                <div class="col-md-5">
+
+                    <div class="product-gallery sticky-product">
+
+
+                        <!-- Main Image -->
+
+                        <div class="product-main-image">
+
+                            <img src="img/prod/Stirrup-Bending-Machine/6.png" alt="Heavy Duty Bar Bending Machine"
+                                class="img-fluid mainProductImage">
+
+                        </div>
+
+
+                        <!-- Thumbnail Images -->
+
+                        <div class="product-thumbnails">
+
+                            <div class="product-thumb active">
+
+                                <img src="img/prod/Stirrup-Bending-Machine/6.png" alt="Heavy Duty Bar Bending Machine"
+                                    onclick="changeProductImage(this)">
+
+                            </div>
+
+
+                            <div class="product-thumb">
+
+                                <img src="img/prod/Stirrup-Bending-Machine/6.1.png"
+                                    alt="Heavy Duty Bar Bending Machine Side View" onclick="changeProductImage(this)">
+
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+
+
+                <!-- ================================= RIGHT : PRODUCT CONTENT ================================== -->
+
+                <div class="col-md-7">
+
+                    <div class="product-content">
+
+
+                        <span class="section-kicker mb-0">
+                            Stirrup Bending Machine
+                        </span>
+
+
+                        <h1 class="product-title">
+                            Heavy Duty Bar Bending Machine
+                        </h1>
+
+
+                        <p class="product-model">
+                            Model: <strong>GW42C</strong>
+                        </p>
+
+
+
+                        <!-- ================================= SPECIFICATIONS ================================= -->
+
+                        <div class="product-specifications">
+
+                            <h3>Product Specifications</h3>
+
+                            <div class="table-responsive">
+
+                                <table class="table product-spec-table">
+
+                                    <tbody>
+
+                                        <tr>
+                                            <th>Automation Grade</th>
+                                            <td>Automatic</td>
+
+                                            <th>Bar Dimensions</th>
+                                            <td>32MM</td>
+                                        </tr>
+
+                                        <tr>
+                                            <th>Model Name/Number</th>
+                                            <td>GW42C</td>
+
+                                            <th>Max Bending Angle</th>
+                                            <td>180 degree</td>
+                                        </tr>
+
+                                        <tr>
+                                            <th>Max Bending Radius</th>
+                                            <td>50 mm</td>
+
+                                            <th>Bend Direction</th>
+                                            <td>Clockwise</td>
+                                        </tr>
+
+                                        <tr>
+                                            <th>Power Source</th>
+                                            <td>Electric</td>
+
+                                            <th>Motor Speed</th>
+                                            <td>1440 RPM</td>
+                                        </tr>
+
+                                        <tr>
+                                            <th>TMT Bar Steel Dia.</th>
+                                            <td>32MM</td>
+
+                                            <th>Body Material</th>
                                             <td>Steel</td>
                                         </tr>
 
                                         <tr>
-                                            <th>Type Of Mast</th>
-                                            <td>Single Mast</td>
-
-                                            <th>Work Surface</th>
-                                            <td>HardWood</td>
-                                        </tr>
-
-                                        <tr>
-                                            <th>Installation</th>
-                                            <td>Provided</td>
-
-                                            <th></th>
-                                            <td></td>
-                                        </tr>
-
-
-
-                                    </tbody>
-
-                                </table>
-
-                            </div>
-
-                        </div>
-
-
-
-                        <!-- ================================= PRODUCT DESCRIPTION ================================= -->
-
-                        <button type="button" class="read-more-btn" onclick="toggleDescription(this)">
-
-                            Read More
-                            <i class="fas fa-chevron-down"></i>
-
-                        </button>
-
-
-                        <div class="product-description">
-
-                            <p>
-                                Gondola Suspended Platform is designed to provide a safe and practical
-                                working solution for construction, maintenance and exterior building work
-                                at elevated heights.
-                            </p>
-
-                            <p>
-                                Manufactured with a durable steel platform, this suspended system comes
-                                with a 100 Kg capacity, single mast configuration and hardwood work surface
-                                for stable and reliable operation.
-                            </p>
-
-                            <p>
-                                Installation support is also provided, making the platform suitable for
-                                facade maintenance, painting, cleaning, repair work and other high-rise
-                                construction applications.
-                            </p>
-
-                        </div>
-
-
-
-                        <!-- ================================= BUTTONS ================================= -->
-
-                        <div class="product-buttons">
-
-                            <button class="border-0 bg-transparent">
-
-                                <a href="https://wa.me/+919311341657" class="btn btn-primary-custom">
-
-                                    Enquiry Now
-                                    <i class="fa-brands fa-whatsapp"></i>
-
-                                </a>
-
-                            </button>
-
-
-                            <button class="border-0 bg-transparent">
-
-                                <a href="tel:+919311341657" class="btn btn-dark-custom">
-
-                                    Call Now
-
-                                </a>
-
-                            </button>
-
-                        </div>
-
-
-                    </div>
-
-                </div>
-
-            </div>
-
-        </div>
-
-    </section>
-
-    <!-- ========================================= Product Details Section 11 ========================================= -->
-
-    <section class="product-details-section py-5 product-item" data-product-name="Suspended Wire Rope Platform">
-
-        <div class="container">
-
-            <div class="row g-5 align-items-start">
-
-
-                <!-- ================================= LEFT : PRODUCT IMAGE ================================== -->
-
-                <div class="col-md-5">
-
-                    <div class="product-gallery sticky-product">
-
-
-                        <!-- Main Image -->
-
-                        <div class="product-main-image">
-
-                            <img src="img/prod/Suspended-Platform/11.png" alt="Suspended Wire Rope Platform"
-                                class="img-fluid mainProductImage">
-
-                        </div>
-
-
-                        <!-- Thumbnail Images -->
-
-                        <div class="product-thumbnails">
-
-                            <div class="product-thumb active">
-
-                                <img src="img/prod/Suspended-Platform/11.png" alt="Suspended Wire Rope Platform"
-                                    onclick="changeProductImage(this)">
-
-                            </div>
-
-
-                            <div class="product-thumb">
-
-                                <img src="img/prod/Suspended-Platform/11.1.png"
-                                    alt="Suspended Wire Rope Platform Side View" onclick="changeProductImage(this)">
-
-                            </div>
-
-                        </div>
-
-                    </div>
-
-                </div>
-
-
-
-                <!-- ================================= RIGHT : PRODUCT CONTENT ================================== -->
-
-                <div class="col-md-7">
-
-                    <div class="product-content">
-
-
-                        <span class="section-kicker mb-0">
-                            Suspended Platform
-                        </span>
-
-
-                        <h1 class="product-title">
-                            Suspended Wire Rope Platform
-                        </h1>
-
-
-                        <p class="product-model">
-                            Model: <strong>ZLP800</strong>
-                        </p>
-
-
-
-                        <!-- ================================= SPECIFICATIONS ================================= -->
-
-                        <div class="product-specifications">
-
-                            <h3>Product Specifications</h3>
-
-                            <div class="table-responsive">
-
-                                <table class="table product-spec-table">
-
-                                    <tbody>
-
-                                        <tr>
-                                            <th>Model Name/Number</th>
-                                            <td>ZLP800</td>
-
-                                            <th>Material Of Platform</th>
-                                            <td>Galvanized</td>
-                                        </tr>
-
-                                        <tr>
-                                            <th>Load Capacity</th>
-                                            <td>800 kg</td>
-
-                                            <th>Platform Length</th>
-                                            <td>(1+1.5+2.5+2.5) mtr</td>
-                                        </tr>
-
-                                        <tr>
-                                            <th>Installation</th>
-                                            <td>Provided</td>
-
-                                            <th>Suspended Height</th>
-                                            <td>100 Mtr</td>
-                                        </tr>
-
-                                        <tr>
-                                            <th>Machine Weight</th>
-                                            <td>1000 Kg</td>
-
-                                            <th>Counterweight</th>
-                                            <td>40 Pcs</td>
-                                        </tr>
-
-                                        <tr>
-                                            <th>Country of Origin</th>
-                                            <td>Made in India</td>
-
-                                            <th>Brand</th>
-                                            <td>Unique</td>
-                                        </tr>
-
-                                        <tr>
                                             <th>Minimum Order Quantity</th>
                                             <td>1 Piece</td>
 
@@ -2425,21 +1351,26 @@
                         <div class="product-description">
 
                             <p>
-                                Suspended Wire Rope Platform is designed for reliable access to
-                                elevated work areas and is suitable for construction, maintenance,
-                                facade cleaning and exterior building applications.
+                                The Heavy Duty Bar Bending Machine is designed
+                                for accurate and efficient bending of TMT and
+                                reinforcement steel bars used in construction.
+                                The GW42C model supports bar dimensions up to
+                                32mm and bending angles up to 180 degrees.
                             </p>
 
                             <p>
-                                The ZLP800 model features a galvanized platform with an 800 kg
-                                load capacity and can operate at suspended heights of up to 100 metres,
-                                providing dependable performance for demanding high-rise projects.
+                                Built with a durable steel body, the machine
+                                features a 1440 RPM electric motor, clockwise
+                                bending operation and a heavy-duty gearbox
+                                for stable performance during regular use.
                             </p>
 
                             <p>
-                                With a modular platform length, strong counterweight system and
-                                installation support, this platform is ideal for painting, repair,
-                                glass installation, exterior maintenance and other height-access work.
+                                Its sturdy construction, convenient controls
+                                and reliable bending mechanism make it suitable
+                                for construction sites and steel fabrication
+                                work. The machine also offers easy operation,
+                                durable components and safety-focused features.
                             </p>
 
                         </div>
@@ -2484,6 +1415,644 @@
         </div>
 
     </section>
+
+
+
+
+    <!-- ========================================= Product Details Section 7 ========================================= -->
+
+    <section class="product-details-section py-5 product-item" data-product-name="Ring Making Machine">
+
+        <div class="container">
+
+            <div class="row g-5 align-items-start">
+
+
+                <!-- ================================= LEFT : PRODUCT IMAGE ================================== -->
+
+                <div class="col-md-5">
+
+                    <div class="product-gallery sticky-product">
+
+
+                        <!-- Main Image -->
+
+                        <div class="product-main-image">
+
+                            <img src="img/prod/Stirrup-Bending-Machine/7.png" alt="Ring Making Machine"
+                                class="img-fluid mainProductImage">
+
+                        </div>
+
+
+                        <!-- Thumbnail Images -->
+
+                        <div class="product-thumbnails">
+
+                            <div class="product-thumb active">
+
+                                <img src="img/prod/Stirrup-Bending-Machine/7.png" alt="Ring Making Machine"
+                                    onclick="changeProductImage(this)">
+
+                            </div>
+
+
+                            <!-- <div class="product-thumb">
+
+                            <img src="img/prod/Stirrup-Bending-Machine/7.1.png"
+                                alt="Ring Making Machine Side View"
+                                onclick="changeProductImage(this)">
+
+                        </div> -->
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+
+
+                <!-- ================================= RIGHT : PRODUCT CONTENT ================================== -->
+
+                <div class="col-md-7">
+
+                    <div class="product-content">
+
+
+                        <span class="section-kicker mb-0">
+                            Stirrup Bending Machine
+                        </span>
+
+
+                        <h1 class="product-title">
+                            Ring Making Machine
+                        </h1>
+
+
+
+                        <!-- ================================= SPECIFICATIONS ================================= -->
+
+                        <div class="product-specifications">
+
+                            <h3>Product Specifications</h3>
+
+                            <div class="table-responsive">
+
+                                <table class="table product-spec-table">
+
+                                    <tbody>
+
+                                        <tr>
+                                            <th>Wire Diameter</th>
+                                            <td>UP TO 16MM</td>
+
+                                            <th>Automation Grade</th>
+                                            <td>Semi-Automatic</td>
+                                        </tr>
+
+                                        <tr>
+                                            <th>Production Speed</th>
+                                            <td>11-20 pcs/min</td>
+
+                                            <th>Wire Material</th>
+                                            <td>Stainless Steel</td>
+                                        </tr>
+
+                                        <tr>
+                                            <th>Power Source</th>
+                                            <td>Electric</td>
+
+                                            <th>Material</th>
+                                            <td>MS</td>
+                                        </tr>
+
+                                        <tr>
+                                            <th>Motor Power</th>
+                                            <td>3 HP</td>
+
+                                            <th>Phase</th>
+                                            <td>3 Phase</td>
+                                        </tr>
+
+                                        <tr>
+                                            <th>Ring Shape</th>
+                                            <td>Square</td>
+
+                                            <th>Country of Origin</th>
+                                            <td>Made in India</td>
+                                        </tr>
+
+                                        <tr>
+                                            <th>Frequency</th>
+                                            <td>50 Hz</td>
+
+                                            <th>Minimum Order Quantity</th>
+                                            <td>1 Piece</td>
+                                        </tr>
+
+                                    </tbody>
+
+                                </table>
+
+                            </div>
+
+                        </div>
+
+
+
+                        <!-- ================================= PRODUCT DESCRIPTION ================================= -->
+
+                        <button type="button" class="read-more-btn" onclick="toggleDescription(this)">
+
+                            Read More
+                            <i class="fas fa-chevron-down"></i>
+
+                        </button>
+
+
+                        <div class="product-description">
+
+                            <p>
+                                The Ring Making Machine is designed for
+                                efficient production of square rings and
+                                stirrups used in construction and steel
+                                fabrication. It supports wire diameters
+                                up to 16mm and offers semi-automatic operation.
+                            </p>
+
+                            <p>
+                                Equipped with a 3 HP electric motor and
+                                three-phase power supply, the machine
+                                operates at 50 Hz and delivers a production
+                                speed of 11-20 pieces per minute.
+                            </p>
+
+                            <p>
+                                Made in India, this machine features a
+                                durable MS construction and supports
+                                stainless steel wire processing. Its
+                                convenient operation and consistent output
+                                make it suitable for regular ring-making
+                                applications.
+                            </p>
+
+                        </div>
+
+
+
+                        <!-- ================================= BUTTONS ================================= -->
+
+                        <div class="product-buttons">
+
+                            <button class="border-0 bg-transparent">
+
+                                <a href="https://wa.me/+919311341657" class="btn btn-primary-custom">
+
+                                    Enquiry Now
+                                    <i class="fa-brands fa-whatsapp"></i>
+
+                                </a>
+
+                            </button>
+
+
+                            <button class="border-0 bg-transparent">
+
+                                <a href="tel:+919311341657" class="btn btn-dark-custom">
+
+                                    Call Now
+
+                                </a>
+
+                            </button>
+
+                        </div>
+
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </section>
+
+
+    <!-- ========================================= Product Details Section 8 ========================================= -->
+
+    <section class="product-details-section py-5 product-item" data-product-name="Stirrup Making Machine">
+
+        <div class="container">
+
+            <div class="row g-5 align-items-start">
+
+
+                <!-- ================================= LEFT : PRODUCT IMAGE ================================== -->
+
+                <div class="col-md-5">
+
+                    <div class="product-gallery sticky-product">
+
+
+                        <!-- Main Image -->
+
+                        <div class="product-main-image">
+
+                            <img src="img/prod/Stirrup-Bending-Machine/8.png" alt="Stirrup Making Machine"
+                                class="img-fluid mainProductImage">
+
+                        </div>
+
+
+                        <!-- Thumbnail Images -->
+
+                        <div class="product-thumbnails">
+
+                            <div class="product-thumb active">
+
+                                <img src="img/prod/Stirrup-Bending-Machine/8.png" alt="Stirrup Making Machine"
+                                    onclick="changeProductImage(this)">
+
+                            </div>
+
+
+                            <div class="product-thumb">
+
+                                <img src="img/prod/Stirrup-Bending-Machine/8.1.png"
+                                    alt="Stirrup Making Machine Side View" onclick="changeProductImage(this)">
+
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+
+
+                <!-- ================================= RIGHT : PRODUCT CONTENT ================================== -->
+
+                <div class="col-md-7">
+
+                    <div class="product-content">
+
+
+                        <span class="section-kicker mb-0">
+                            Stirrup Bending Machine
+                        </span>
+
+
+                        <h1 class="product-title">
+                            Stirrup Making Machine
+                        </h1>
+
+
+                        <p class="product-model">
+                            Model: <strong>UNI20</strong>
+                        </p>
+
+
+
+                        <!-- ================================= SPECIFICATIONS ================================= -->
+
+                        <div class="product-specifications">
+
+                            <h3>Product Specifications</h3>
+
+                            <div class="table-responsive">
+
+                                <table class="table product-spec-table">
+
+                                    <tbody>
+
+                                        <tr>
+                                            <th>Automation Grade</th>
+                                            <td>Semi-Automatic</td>
+
+                                            <th>Brand</th>
+                                            <td>UNIQUE</td>
+                                        </tr>
+
+                                        <tr>
+                                            <th>Voltage</th>
+                                            <td>220/415v</td>
+
+                                            <th>Weight</th>
+                                            <td>105kg</td>
+                                        </tr>
+
+                                        <tr>
+                                            <th>Model Name/Number</th>
+                                            <td>UNI20</td>
+
+                                            <th>Country of Origin</th>
+                                            <td>Made in India</td>
+                                        </tr>
+
+                                    </tbody>
+
+                                </table>
+
+                            </div>
+
+                        </div>
+
+
+
+                        <!-- ================================= PRODUCT DESCRIPTION ================================= -->
+
+                        <button type="button" class="read-more-btn" onclick="toggleDescription(this)">
+
+                            Read More
+                            <i class="fas fa-chevron-down"></i>
+
+                        </button>
+
+
+                        <div class="product-description">
+
+                            <p>
+                                The Stirrup Making Machine is designed for
+                                efficient bending and shaping of steel bars
+                                into stirrups used in construction and
+                                reinforcement applications. Its semi-automatic
+                                operation allows convenient handling and
+                                consistent bending performance.
+                            </p>
+
+                            <p>
+                                The UNI20 model from UNIQUE operates on
+                                a 220/415V power supply and features a
+                                sturdy 105kg construction for stable
+                                performance during regular use.
+                            </p>
+
+                            <p>
+                                Made in India, this machine is suitable
+                                for construction sites and steel fabrication
+                                work. Its durable construction, simple
+                                operation and practical design make it
+                                suitable for daily stirrup-making tasks.
+                            </p>
+
+                        </div>
+
+
+
+                        <!-- ================================= BUTTONS ================================= -->
+
+                        <div class="product-buttons">
+
+                            <button class="border-0 bg-transparent">
+
+                                <a href="https://wa.me/+919311341657" class="btn btn-primary-custom">
+
+                                    Enquiry Now
+                                    <i class="fa-brands fa-whatsapp"></i>
+
+                                </a>
+
+                            </button>
+
+
+                            <button class="border-0 bg-transparent">
+
+                                <a href="tel:+919311341657" class="btn btn-dark-custom">
+
+                                    Call Now
+
+                                </a>
+
+                            </button>
+
+                        </div>
+
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </section>
+
+
+    <!-- ========================================= Product Details Section 9 ========================================= -->
+
+    <section class="product-details-section py-5 product-item" data-product-name="Digital Stirrup Bending Machine">
+
+        <div class="container">
+
+            <div class="row g-5 align-items-start">
+
+
+                <!-- ================================= LEFT : PRODUCT IMAGE ================================== -->
+
+                <div class="col-md-5">
+
+                    <div class="product-gallery sticky-product">
+
+
+                        <!-- Main Image -->
+
+                        <div class="product-main-image">
+
+                            <img src="img/prod/Stirrup-Bending-Machine/9.png" alt="Digital Stirrup Bending Machine"
+                                class="img-fluid mainProductImage">
+
+                        </div>
+
+
+                        <!-- Thumbnail Images -->
+
+                        <div class="product-thumbnails">
+
+                            <div class="product-thumb active">
+
+                                <img src="img/prod/Stirrup-Bending-Machine/9.png" alt="Digital Stirrup Bending Machine"
+                                    onclick="changeProductImage(this)">
+
+                            </div>
+
+
+                            <!-- <div class="product-thumb">
+
+                            <img src="img/prod/Stirrup-Bending-Machine/9.1.png"
+                                alt="Digital Stirrup Bending Machine Side View"
+                                onclick="changeProductImage(this)">
+
+                        </div> -->
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+
+
+                <!-- ================================= RIGHT : PRODUCT CONTENT ================================== -->
+
+                <div class="col-md-7">
+
+                    <div class="product-content">
+
+
+                        <span class="section-kicker mb-0">
+                            Stirrup Bending Machine
+                        </span>
+
+
+                        <h1 class="product-title">
+                            Digital Stirrup Bending Machine
+                        </h1>
+
+
+                        <p class="product-model">
+                            Model: <strong>GF20</strong>
+                        </p>
+
+
+
+                        <!-- ================================= SPECIFICATIONS ================================= -->
+
+                        <div class="product-specifications">
+
+                            <h3>Product Specifications</h3>
+
+                            <div class="table-responsive">
+
+                                <table class="table product-spec-table">
+
+                                    <tbody>
+
+                                        <tr>
+                                            <th>Automation Grade</th>
+                                            <td>Semi-Automatic</td>
+
+                                            <th>Brand</th>
+                                            <td>UNIQUE</td>
+                                        </tr>
+
+                                        <tr>
+                                            <th>Model Name/Number</th>
+                                            <td>GF20</td>
+
+                                            <th>Phase Type</th>
+                                            <td>Single phase</td>
+                                        </tr>
+
+                                        <tr>
+                                            <th>Voltage</th>
+                                            <td>220V</td>
+
+                                            <th>Adjustable Bending Speed</th>
+                                            <td>Yes</td>
+                                        </tr>
+
+                                        <tr>
+                                            <th>Weight</th>
+                                            <td>95kg</td>
+
+                                            <th>Minimum Order Quantity</th>
+                                            <td>1 Piece</td>
+                                        </tr>
+
+                                    </tbody>
+
+                                </table>
+
+                            </div>
+
+                        </div>
+
+
+
+                        <!-- ================================= PRODUCT DESCRIPTION ================================= -->
+
+                        <button type="button" class="read-more-btn" onclick="toggleDescription(this)">
+
+                            Read More
+                            <i class="fas fa-chevron-down"></i>
+
+                        </button>
+
+
+                        <div class="product-description">
+
+                            <p>
+                                The Digital Stirrup Bending Machine is designed
+                                for efficient bending and shaping of steel bars
+                                into stirrups used in construction projects.
+                                Its semi-automatic operation helps maintain
+                                consistent bending results.
+                            </p>
+
+                            <p>
+                                The GF20 model from UNIQUE operates on a
+                                220V single-phase power supply and features
+                                adjustable bending speed for convenient
+                                operation. Its 95kg construction provides
+                                stability during regular use.
+                            </p>
+
+                            <p>
+                                This machine is suitable for construction
+                                sites and steel fabrication applications.
+                                Its user-friendly controls, durable design
+                                and adjustable operation make it a practical
+                                choice for everyday stirrup-making work.
+                            </p>
+
+                        </div>
+
+
+
+                        <!-- ================================= BUTTONS ================================= -->
+
+                        <div class="product-buttons">
+
+                            <button class="border-0 bg-transparent">
+
+                                <a href="https://wa.me/+919311341657" class="btn btn-primary-custom">
+
+                                    Enquiry Now
+                                    <i class="fa-brands fa-whatsapp"></i>
+
+                                </a>
+
+                            </button>
+
+
+                            <button class="border-0 bg-transparent">
+
+                                <a href="tel:+919311341657" class="btn btn-dark-custom">
+
+                                    Call Now
+
+                                </a>
+
+                            </button>
+
+                        </div>
+
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </section>
+
 
 
 
@@ -2494,7 +2063,6 @@
     <?php include 'footer.php'; ?>
 
     <!-- footer end -->
-
 
     <!-- Bootstrap JS -->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>

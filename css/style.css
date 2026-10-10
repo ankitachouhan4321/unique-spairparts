@@ -4050,3 +4050,117 @@ textarea.form-control {
     }
 
 }
+
+
+/* Floating Contact Buttons */
+.floating-contact {
+    position: fixed;
+    right: 18px;
+    bottom: 80px;
+    z-index: 9999;
+    display: flex;
+    flex-direction: column;
+    gap: 14px;
+}
+
+/* Common Button Style */
+.floating-contact .contact-btn {
+    width: 55px;
+    height: 55px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    color: #fff;
+    text-decoration: none;
+    font-size: 25px;
+    box-shadow: 0 5px 18px rgba(0, 0, 0, 0.22);
+    transition: all 0.3s ease;
+    animation: contactFloat 3s ease-in-out infinite;
+}
+
+.floating-contact .contact-btn:hover {
+    color: #fff;
+    transform: scale(1.12);
+}
+
+/* WhatsApp Theme */
+.floating-contact .whatsapp-btn {
+    background: #25D366;
+    animation-delay: 0s;
+}
+
+.floating-contact .whatsapp-btn:hover {
+    background: #128C7E;
+}
+
+/* Construction Red Call Button */
+.floating-contact .call-btn {
+    background: #c3171c;
+    animation-delay: 0.5s;
+}
+
+.floating-contact .call-btn:hover {
+    background: #981116;
+}
+
+/* Floating Animation */
+@keyframes contactFloat {
+    0%, 100% {
+        translate: 0 0;
+    }
+    50% {
+        translate: 0 -5px;
+    }
+}
+
+/* Tooltip */
+.floating-contact .contact-tooltip {
+    position: absolute;
+    right: 68px;
+    background: #202020;
+    color: #fff;
+    font-size: 13px;
+    padding: 8px 12px;
+    white-space: nowrap;
+    border-radius: 4px;
+    opacity: 0;
+    visibility: hidden;
+    transform: translateX(8px);
+    transition: all 0.3s ease;
+    pointer-events: none;
+}
+
+.floating-contact .contact-btn:hover .contact-tooltip {
+    opacity: 1;
+    visibility: visible;
+    transform: translateX(0);
+}
+
+/* Mobile Responsive */
+@media (max-width: 576px) {
+    .floating-contact {
+        right: 14px;
+        bottom: 18px;
+        gap: 12px;
+    }
+
+    .floating-contact .contact-btn {
+        width: 48px;
+        height: 48px;
+        font-size: 22px;
+    }
+
+    .floating-contact .contact-tooltip {
+        display: none;
+    }
+}
+
+/* Respect reduced-motion preferences */
+@media (prefers-reduced-motion: reduce) {
+    .floating-contact .contact-btn {
+        animation: none;
+        transition: none;
+    }
+}
