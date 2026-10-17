@@ -78,49 +78,48 @@
                                                     </li>
 
                                                     <li>
-                                                        <a href="#">
+                                                        <a href="stirrup-bending-machine.php">
                                                             Stirrup Bending Machine
                                                         </a>
                                                     </li>
 
                                                     <li>
-                                                        <a href="#">
+                                                        <a href="power-trowel.php">
                                                             Power Trowel
                                                         </a>
                                                     </li>
 
                                                     <li>
-                                                        <a href="#">
-                                                            Ring making machine
+                                                        <a href="ring-making-machine.php">Ring making machine
                                                         </a>
                                                     </li>
 
                                                     <li>
-                                                        <a href="#">
+                                                        <a href="tamping-vibrator.php">
                                                             Tamping Vibrator
                                                         </a>
                                                     </li>
 
                                                     <li>
-                                                        <a href="#">
+                                                        <a href="concrete-flooring-machine.php">
                                                             Concrete Flooring machine
                                                         </a>
                                                     </li>
 
                                                     <li>
-                                                        <a href="#">
+                                                        <a href="tamping-rammer.php">
                                                             Tamping Rammer
                                                         </a>
                                                     </li>
 
                                                     <li>
-                                                        <a href="#">
+                                                        <a href="walk-behind-rollers.php">
                                                             Walk Behind Rollers
                                                         </a>
                                                     </li>
-                                                       <li><a href="#">Vibratory Double Drum Rollers</a></li>
-                                                    <li><a href="#">Bar Threading Machine</a></li>
-                                                    <li><a href="#">Groove Cutting Machine</a></li>
+                                                       <li><a href="vibratory-double-drum-rollers.php">Vibratory Double Drum Rollers</a></li>
+                                                    <li><a href="bar-threading-machine.php">Bar Threading Machine</a></li>
+                                                   
 
                                                 </ul>
 
@@ -133,23 +132,23 @@
 
                                                 <ul class="mega-menu-list">
 
-                                                 
-                                                    <li><a href="#">Rod Cutting Machine</a></li>
-                                                    <li><a href="#">Walk Behind Power Trowel</a></li>
-                                                    <li><a href="#">Semi Automatic Strapping Machine</a>
+                                                  <li><a href="groove-cutting-machine.php">Groove Cutting Machine</a></li>
+                                                    <li><a href="rod-cutting-machine.php">Rod Cutting Machine</a></li>
+                                                    <li><a href="walk-behind-power-trowel.php">Walk Behind Power Trowel</a></li>
+                                                    <li><a href="semi-automatic-strapping-machine.php">Semi Automatic Strapping Machine</a>
                                                     </li>
-                                                    <li><a href="#">Rebar Cutting Machine</a></li>
-                                                    <li><a href="#">Steel Bar Tmt Bending Machine</a></li>
-                                                    <li><a href="#">Concrete Paver</a></li>
-                                                    <li><a href="#">Screed Board Vibrator</a></li>
-                                                    <li><a href="#">Forward And Reversible Compactor</a>
+                                                    <li><a href="rebar-cutting-machine.php">Rebar Cutting Machine</a></li>
+                                                    <li><a href="steel-bar-tmt-bending-machine.php">Steel Bar Tmt Bending Machine</a></li>
+                                                    <li><a href="concrete-paver.php">Concrete Paver</a></li>
+                                                    <li><a href="forward-and-reversible-compactor.php">Forward And Reversible Compactor</a></li>
+                                                    <li><a href="screed-board-vibrator.php">Screed Board Vibrator</a>
                                                     </li>
-                                                    <li><a href="#">Vibratory Rammer</a></li>
-                                                    <li><a href="#">Bar Threading Machine Roller Set</a>
+                                                    <li><a href="bar-threading-machine-roller-set.php">Bar Threading Machine Roller Set</a></li>
+                                                    <li><a href="concrete-truss-screed-paver.php">Concrete Truss Screed Paver</a>
                                                     </li>
-                                                    <li><a href="#">Concrete Truss Screed Paver</a></li>
-                                                    <li><a href="#">Anti Smog Gun</a></li>
-                                                    <li><a href="#">Walk Behind Road Roller</a></li>
+                                                    <li><a href="anti-smog-gun.php">Anti Smog Gun</a></li>
+                                                    <li><a href="vibratory-rammer.php">Vibratory Rammer</a></li>
+                                                   
 
                                                 </ul>
 
@@ -161,22 +160,21 @@
                                             <div class="col-lg">
 
                                                 <ul class="mega-menu-list">
-
-                                                    <li><a href="#">Hoist Duty Motors</a></li>
-                                                    <li><a href="#">Rebar Thread Cutting Machine</a></li>
-                                                    <li><a href="#">Floor Mopping Machines</a></li>
-                                                    <li><a href="#">Walk Behind Vibratory Roller</a></li>
-                                                    <li><a href="#">Steel Bending Machine</a></li>
-                                                    <li><a href="#">Drum Roller</a></li>
-                                                    <li><a href="#">Ride On Roller</a></li>
-                                                    <li><a href="#">Mini Roller</a></li>
-                                                    <li><a href="#">Vibrating Plate Compactor</a></li>
-                                                    <li><a href="#">Earth Rammer Machine</a></li>
-                                                    <li><a href="#">Double Drum Walk Behind Vibratory
-                                                            Roller</a></li>
-                                                    <li><a href="#">Roller</a></li>
-                                                    <li><a href="#">Rebar Threading Machine</a></li>
-                                                    <li><a href="#">Automatic Stirrup Benders</a></li>
+ <li><a href="hoist-duty-motors.php">Hoist Duty Motors</a></li>
+                                                    <li><a href="walk-behind-road-roller.php">Walk Behind Road Roller</a></li>
+                                                    <li><a href="rebar-thread-cutting-machine.php">Rebar Thread Cutting Machine</a></li>
+                                                    <li><a href="floor-mopping-machines.php">Floor Mopping Machines</a></li>
+                                                    <li><a href="steel-bending-machine.php">Steel Bending Machine</a></li>
+                                                    <li><a href="ride-on-roller.php">Ride On Roller</a></li>
+                                                    <li><a href="vibrating-plate-compactor.php">Vibrating Plate Compactor</a></li>
+                                                    <li><a href="earth-rammer-machine.php">Earth Rammer Machine</a></li>
+                                                    <li><a href="roller.php">Roller</a></li>
+                                                    <li><a href="rebar-threading-machine.php">Rebar Threading Machine</a></li>
+                                                    <li><a href="automatic-stirrup-benders.php">Automatic Stirrup Benders</a></li>
+                                                    <li><a href="groove-cutting-machine-.php">Groove Cutting Machine -</a></li>
+                                                    <li><a href="walk-behind-vibratory-roller.php">Walk Behind Vibratory Roller</a></li>
+                                                    <li><a href="ring-bending-machine.php">Ring Bending Machine</a></li>
+                                                    
 
                                                 </ul>
 
@@ -188,22 +186,21 @@
                                             <div class="col-lg">
 
                                                 <ul class="mega-menu-list">
-
-                                                    <li><a href="#">Groove Cutting Machine</a></li>
-                                                    <li><a href="#">Ring Bending Machine</a></li>
-                                                    <li><a href="#">Pipe Threading Machine</a></li>
-                                                    <li><a href="#">Plate Vibrator</a></li>
-                                                    <li><a href="#">Power Floater Machine</a></li>
-                                                    <li><a href="#">Punching and sharing machine</a></li>
-                                                    <li><a href="#">Monkey Lift</a></li>
-                                                    <li><a href="#">Rebar Scrap Straightening Machine</a>
+<li><a href="drum-roller.php">Drum Roller</a></li>
+                                                    <li><a href="pipe-threading-machine.php">Pipe Threading Machine</a></li>
+                                                    <li><a href="plate-vibrator.php">Plate Vibrator</a></li>
+                                                    <li><a href="power-floater-machine.php">Power Floater Machine</a></li>
+                                                    <li><a href="punching-and-sharing-machine.php">Punching and sharing machine</a></li>
+                                                    <li><a href="monkey-lift.php">Monkey Lift</a></li>
+                                                    <li><a href="rebar-scrap-straightening-machine.php">Rebar Scrap Straightening Machine</a></li>
+                                                    <li><a href="cement-concrete-hardener.php">Cement Concrete Hardener</a></li>
+                                                    <li><a href="concrete-cutter-machine.php">Concrete Cutting Machine</a>
                                                     </li>
-                                                    <li><a href="#">Cement Concrete Hardener</a></li>
-                                                    <li><a href="#">Concrete Cutting Machine</a></li>
-                                                    <li><a href="#">Vibratory Compaction Rollers</a></li>
-                                                    <li><a href="#">Rebar Straightening machine</a></li>
-    <li><a href="#">Concrete Bull Float And Texturing
-                                                            Brush</a></li>
+                                                    <li><a href="vibratory-compaction-rollers.php">Vibratory Compaction Rollers</a></li>
+                                                    <li><a href="double-drum-walk-behind-vibratory-roller.php">Double Drum Walk Behind Vibratory Roller</a></li>
+                                                    <li><a href="rebar-straightening-machine.php">Rebar Straightening machine</a></li>
+                                                    <li><a href="concrete-bull-float-and-texturing-brush.php">Concrete Bull Float And Texturing Brush</a></li>
+                                                    
                                                 </ul>
 
                                             </div>
@@ -215,23 +212,21 @@
 
                                                 <ul class="mega-menu-list">
 
-                                                
-                                                    <li><a href="#">Rcc Road Work</a></li>
-                                                    <li><a href="#">Topping Material Spreader</a></li>
-                                                    <li><a href="#">Rebar Couper Threading Machine</a>
+                                                 <li><a href="rcc-road-work.php">Rcc Road Work</a></li>
+                                                    <li><a href="topping-material-spreader.php">Topping Material Spreader</a></li>
+                                                    <li><a href="rebar-couper-threading-machine.php">Rebar Couper Threading Machine</a></li>
+                                                    <li><a href="construction-tools.php">Construction Tools</a>
                                                     </li>
-                                                    <li><a href="#">Construction Tools</a></li>
-                                                    <li><a href="#">Concrete Floater</a></li>
-                                                    <li><a href="#">Texture Brushes</a></li>
-                                                    <li><a href="#">Concrete Grinder</a></li>
-                                                    <li><a href="#">Rebar Decoiling</a></li>
-                                                    <li><a href="#">Concrete Cutter Machine</a></li>
-                                                    <li><a href="#">Earth Rammer</a></li>
-                                                    <li><a href="#">Power Trowel Floater</a></li>
-                                                    <li><a href="#">Monkey Hoist Machines</a></li>
-                                                    <li><a href="#">Concrete Road Paver</a></li>
-                                                    <li><a href="#">New Items</a></li>
-
+                                                    <li><a href="concrete-floater.php">Concrete Floater</a></li>
+                                                    <li><a href="texture-brushes.php">Texture Brushes</a></li>
+                                                    <li><a href="concrete-grinder.php">Concrete Grinder</a></li>
+                                                    <li><a href="rebar-decoiling.php">Rebar Decoiling</a></li>
+                                                    <li><a href="concrete-cutter-machine.php">Concrete Cutter Machine</a></li>
+                                                    <li><a href="earth-rammer.php">Earth Rammer</a></li>
+                                                    <li><a href="power-trowel-floater.php">Power Trowel Floater</a></li>
+                                                    <li><a href="monkey-hoist-machines.php">Monkey Hoist Machines</a></li>
+                                                    <li><a href="concret-road-paver.php">Concrete Road Paver</a></li>
+                                                
 
                                                 </ul>
 
@@ -248,10 +243,10 @@
                         </li>
 
 
-
+<!-- 
                         <li class="nav-item">
                             <a class="nav-link" href="#">Gallery</a>
-                        </li>
+                        </li> -->
                         <li class="nav-item">
                             <a class="nav-link" href="contact.php">Contact Us</a>
                         </li>
